@@ -1,0 +1,215 @@
+{
+    "id": "yamanote-line",
+    "answers": [
+        {
+            "name": "池袋駅",
+            "aliases": [
+                "池袋"
+            ],
+            "tags": []
+        },
+        {
+            "name": "大塚駅",
+            "aliases": [
+                "大塚"
+            ],
+            "tags": []
+        },
+        {
+            "name": "巣鴨駅",
+            "aliases": [
+                "巣鴨"
+            ],
+            "tags": []
+        },
+        {
+            "name": "駒込駅",
+            "aliases": [
+                "駒込"
+            ],
+            "tags": []
+        },
+        {
+            "name": "田端駅",
+            "aliases": [
+                "田端"
+            ],
+            "tags": []
+        },
+        {
+            "name": "西日暮里駅",
+            "aliases": [
+                "西日暮里"
+            ],
+            "tags": []
+        },
+        {
+            "name": "日暮里駅",
+            "aliases": [
+                "日暮里"
+            ],
+            "tags": []
+        },
+        {
+            "name": "鶯谷駅",
+            "aliases": [
+                "鶯谷"
+            ],
+            "tags": []
+        },
+        {
+            "name": "上野駅",
+            "aliases": [
+                "上野"
+            ],
+            "tags": []
+        },
+        {
+            "name": "御徒町駅",
+            "aliases": [
+                "御徒町"
+            ],
+            "tags": []
+        },
+        {
+            "name": "秋葉原駅",
+            "aliases": [
+                "秋葉原"
+            ],
+            "tags": []
+        },
+        {
+            "name": "神田駅",
+            "aliases": [
+                "神田"
+            ],
+            "tags": []
+        },
+        {
+            "name": "東京駅",
+            "aliases": [
+                "東京"
+            ],
+            "tags": []
+        },
+        {
+            "name": "有楽町駅",
+            "aliases": [
+                "有楽町"
+            ],
+            "tags": []
+        },
+        {
+            "name": "新橋駅",
+            "aliases": [
+                "新橋"
+            ],
+            "tags": []
+        },
+        {
+            "name": "浜松町駅",
+            "aliases": [
+                "浜松町"
+            ],
+            "tags": []
+        },
+        {
+            "name": "田町駅",
+            "aliases": [
+                "田町"
+            ],
+            "tags": []
+        },
+        {
+            "name": "高輪ゲートウェイ駅",
+            "aliases": [
+                "高輪ゲートウェイ"
+            ],
+            "tags": []
+        },
+        {
+            "name": "品川駅",
+            "aliases": [
+                "品川"
+            ],
+            "tags": []
+        },
+        {
+            "name": "大崎駅",
+            "aliases": [
+                "大崎"
+            ],
+            "tags": []
+        },
+        {
+            "name": "五反田駅",
+            "aliases": [
+                "五反田"
+            ],
+            "tags": []
+        },
+        {
+            "name": "目黒駅",
+            "aliases": [
+                "目黒"
+            ],
+            "tags": []
+        },
+        {
+            "name": "恵比寿駅",
+            "aliases": [
+                "恵比寿"
+            ],
+            "tags": []
+        },
+        {
+            "name": "渋谷駅",
+            "aliases": [
+                "渋谷"
+            ],
+            "tags": []
+        },
+        {
+            "name": "原宿駅",
+            "aliases": [
+                "原宿"
+            ],
+            "tags": []
+        },
+        {
+            "name": "代々木駅",
+            "aliases": [
+                "代々木"
+            ],
+            "tags": []
+        },
+        {
+            "name": "新宿駅",
+            "aliases": [
+                "新宿"
+            ],
+            "tags": []
+        },
+        {
+            "name": "新大久保駅",
+            "aliases": [
+                "新大久保"
+            ],
+            "tags": []
+        },
+        {
+            "name": "高田馬場駅",
+            "aliases": [
+                "高田馬場"
+            ],
+            "tags": []
+        },
+        {
+            "name": "目白駅",
+            "aliases": [
+                "目白"
+            ],
+            "tags": []
+        }
+    ]
+}

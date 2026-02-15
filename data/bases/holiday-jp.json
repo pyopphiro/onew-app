@@ -1,0 +1,85 @@
+{
+    "id": "holiday-jp",
+    "answers": [
+        {
+            "name": "元日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "成人の日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "建国記念の日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "天皇誕生日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "春分の日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "昭和の日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "憲法記念日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "みどりの日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "こどもの日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "海の日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "山の日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "敬老の日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "秋分の日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "スポーツの日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "文化の日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "勤労感謝の日",
+            "aliases": [],
+            "tags": []
+        }
+    ]
+}

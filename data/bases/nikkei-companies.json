@@ -1,0 +1,1130 @@
+{
+    "id": "nikkei-companies",
+    "answers": [
+        {
+            "name": "日清製粉グループ本社",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "明治ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本ハム",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "サッポロホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アサヒグループホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "キリンホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "キッコーマン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "味の素",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ニチレイ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本たばこ産業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "帝人",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東レ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "王子ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "クラレ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "旭化成",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "レゾナック・ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "住友化学",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日産化学",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東ソー",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "トクヤマ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "デンカ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "信越化学工業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三井化学",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三菱ケミカルグループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "UBE",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "花王",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "富士フイルムホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "資生堂",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日東電工",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "協和キリン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "武田薬品工業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アステラス製薬",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "住友ファーマ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "塩野義製薬",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "中外製薬",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "エーザイ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "第一三共",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大塚ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "出光興産",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ENEOSホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "横浜ゴム",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ブリヂストン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "AGC",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本電気硝子",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "太平洋セメント",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東海カーボン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "TOTO",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本碍子",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本製鉄",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "神戸製鋼所",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "JFEホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "SUMCO",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三井金属鉱業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三菱マテリアル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "住友金属鉱山",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "DOWAホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "古河電気工業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "住友電気工業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "フジクラ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本製鋼所",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "オークマ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アマダ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "SMC",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "小松製作所",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "住友重機械工業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日立建機",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "クボタ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "荏原製作所",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ダイキン工業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本精工",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "NTN",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ジェイテクト",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "カナデビア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三菱重工業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "IHI",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "イビデン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ミネベアミツミ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日立製作所",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三菱電機",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "富士電機",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "安川電機",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ソシオネクスト",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "オムロン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ジーエス・ユアサコーポレーション",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本電気",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "富士通",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ルネサスエレクトロニクス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "セイコーエプソン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "パナソニックホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "シャープ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ソニーグループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "TDK",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アルプスアルパイン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "横河電機",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アドバンテスト",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "キーエンス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "デンソー",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "レーザーテック",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "カシオ計算機",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ファナック",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ローム",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "京セラ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "太陽誘電",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "村田製作所",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "SCREENホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "キヤノン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "リコー",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東京エレクトロン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "川崎重工業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日産自動車",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "いすゞ自動車",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "トヨタ自動車",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日野自動車",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三菱自動車工業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "マツダ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "本田技研工業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "スズキ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "SUBARU",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ヤマハ発動機",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "テルモ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "コニカミノルタ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ディスコ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ニコン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "オリンパス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "HOYA",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "バンダイナムコホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "TOPPANホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大日本印刷",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ヤマハ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ニッスイ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "INPEX",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "コムシスホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大成建設",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大林組",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "清水建設",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "長谷工コーポレーション",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "鹿島建設",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大和ハウス工業",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "積水ハウス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日揮ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "双日",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "伊藤忠商事",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "丸紅",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "豊田通商",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三井物産",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "住友商事",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三菱商事",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "J.フロント リテイリング",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ZOZO",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三越伊勢丹ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "セブン&アイ・ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "良品計画",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "髙島屋",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "丸井グループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "イオン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ニトリホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ファーストリテイリング",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "しずおかフィナンシャルグループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "横浜フィナンシャルグループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "あおぞら銀行",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三菱UFJフィナンシャル・グループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "りそなホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三井住友トラスト・ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三井住友フィナンシャルグループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "千葉銀行",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ふくおかフィナンシャルグループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "みずほフィナンシャルグループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大和証券グループ本社",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "野村ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "SOMPOホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "MS&ADインシュアランスグループホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "第一生命ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東京海上ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "T&Dホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "クレディセゾン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "オリックス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本取引所グループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東急不動産ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三井不動産",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三菱地所",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東京建物",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "住友不動産",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東武鉄道",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東急",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "小田急電鉄",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "京王電鉄",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "京成電鉄",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東日本旅客鉄道",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "西日本旅客鉄道",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東海旅客鉄道",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ヤマトホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "NIPPON EXPRESSホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本郵船",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "商船三井",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "川崎汽船",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本航空",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ANAホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "NTT",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "KDDI",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ソフトバンク",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ソフトバンクグループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東京電力ホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "中部電力",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "関西電力",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東京ガス",
+            "aliases": ["東京瓦斯"],
+            "tags": []
+        },
+        {
+            "name": "大阪ガス",
+            "aliases": ["大阪瓦斯"],
+            "tags": []
+        },
+        {
+            "name": "エムスリー",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ディー・エヌ・エー",
+            "aliases": ["DeNA"],
+            "tags": []
+        },
+        {
+            "name": "ネクソン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "SHIFT",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "野村総合研究所",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "電通グループ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "メルカリ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "オリエンタルランド",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "LINEヤフー",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "トレンドマイクロ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "サイバーエージェント",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "楽天",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "リクルートホールディングス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日本郵政",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ベイカレント",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "任天堂",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東宝",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "セコム",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "コナミグループ",
+            "aliases": [],
+            "tags": []
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+    "id": "prefectures",
+    "answers": [
+        {
+            "name": "北海道",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "青森県",
+            "aliases": [
+                "青森"
+            ],
+            "tags": []
+        },
+        {
+            "name": "岩手県",
+            "aliases": [
+                "岩手"
+            ],
+            "tags": []
+        },
+        {
+            "name": "宮城県",
+            "aliases": [
+                "宮城"
+            ],
+            "tags": []
+        },
+        {
+            "name": "秋田県",
+            "aliases": [
+                "秋田"
+            ],
+            "tags": []
+        },
+        {
+            "name": "山形県",
+            "aliases": [
+                "山形"
+            ],
+            "tags": []
+        },
+        {
+            "name": "福島県",
+            "aliases": [
+                "福島"
+            ],
+            "tags": []
+        },
+        {
+            "name": "茨城県",
+            "aliases": [
+                "茨城"
+            ],
+            "tags": []
+        },
+        {
+            "name": "栃木県",
+            "aliases": [
+                "栃木"
+            ],
+            "tags": []
+        },
+        {
+            "name": "群馬県",
+            "aliases": [
+                "群馬"
+            ],
+            "tags": []
+        },
+        {
+            "name": "埼玉県",
+            "aliases": [
+                "埼玉"
+            ],
+            "tags": []
+        },
+        {
+            "name": "千葉県",
+            "aliases": [
+                "千葉"
+            ],
+            "tags": []
+        },
+        {
+            "name": "東京都",
+            "aliases": [
+                "東京"
+            ],
+            "tags": []
+        },
+        {
+            "name": "神奈川県",
+            "aliases": [
+                "神奈川"
+            ],
+            "tags": []
+        },
+        {
+            "name": "新潟県",
+            "aliases": [
+                "新潟"
+            ],
+            "tags": []
+        },
+        {
+            "name": "富山県",
+            "aliases": [
+                "富山"
+            ],
+            "tags": []
+        },
+        {
+            "name": "石川県",
+            "aliases": [
+                "石川"
+            ],
+            "tags": []
+        },
+        {
+            "name": "福井県",
+            "aliases": [
+                "福井"
+            ],
+            "tags": []
+        },
+        {
+            "name": "山梨県",
+            "aliases": [
+                "山梨"
+            ],
+            "tags": []
+        },
+        {
+            "name": "長野県",
+            "aliases": [
+                "長野"
+            ],
+            "tags": []
+        },
+        {
+            "name": "岐阜県",
+            "aliases": [
+                "岐阜"
+            ],
+            "tags": []
+        },
+        {
+            "name": "静岡県",
+            "aliases": [
+                "静岡"
+            ],
+            "tags": []
+        },
+        {
+            "name": "愛知県",
+            "aliases": [
+                "愛知"
+            ],
+            "tags": []
+        },
+        {
+            "name": "三重県",
+            "aliases": [
+                "三重"
+            ],
+            "tags": []
+        },
+        {
+            "name": "滋賀県",
+            "aliases": [
+                "滋賀"
+            ],
+            "tags": []
+        },
+        {
+            "name": "京都府",
+            "aliases": [
+                "京都"
+            ],
+            "tags": []
+        },
+        {
+            "name": "大阪府",
+            "aliases": [
+                "大阪"
+            ],
+            "tags": []
+        },
+        {
+            "name": "兵庫県",
+            "aliases": [
+                "兵庫"
+            ],
+            "tags": []
+        },
+        {
+            "name": "奈良県",
+            "aliases": [
+                "奈良"
+            ],
+            "tags": []
+        },
+        {
+            "name": "和歌山県",
+            "aliases": [
+                "和歌山"
+            ],
+            "tags": []
+        },
+        {
+            "name": "鳥取県",
+            "aliases": [
+                "鳥取"
+            ],
+            "tags": []
+        },
+        {
+            "name": "島根県",
+            "aliases": [
+                "島根"
+            ],
+            "tags": []
+        },
+        {
+            "name": "岡山県",
+            "aliases": [
+                "岡山"
+            ],
+            "tags": []
+        },
+        {
+            "name": "広島県",
+            "aliases": [
+                "広島"
+            ],
+            "tags": []
+        },
+        {
+            "name": "山口県",
+            "aliases": [
+                "山口"
+            ],
+            "tags": []
+        },
+        {
+            "name": "徳島県",
+            "aliases": [
+                "徳島"
+            ],
+            "tags": []
+        },
+        {
+            "name": "香川県",
+            "aliases": [
+                "香川"
+            ],
+            "tags": []
+        },
+        {
+            "name": "愛媛県",
+            "aliases": [
+                "愛媛"
+            ],
+            "tags": []
+        },
+        {
+            "name": "高知県",
+            "aliases": [
+                "高知"
+            ],
+            "tags": []
+        },
+        {
+            "name": "福岡県",
+            "aliases": [
+                "福岡"
+            ],
+            "tags": []
+        },
+        {
+            "name": "佐賀県",
+            "aliases": [
+                "佐賀"
+            ],
+            "tags": []
+        },
+        {
+            "name": "長崎県",
+            "aliases": [
+                "長崎"
+            ],
+            "tags": []
+        },
+        {
+            "name": "熊本県",
+            "aliases": [
+                "熊本"
+            ],
+            "tags": []
+        },
+        {
+            "name": "大分県",
+            "aliases": [
+                "大分"
+            ],
+            "tags": []
+        },
+        {
+            "name": "宮崎県",
+            "aliases": [
+                "宮崎"
+            ],
+            "tags": []
+        },
+        {
+            "name": "鹿児島県",
+            "aliases": [
+                "鹿児島"
+            ],
+            "tags": []
+        },
+        {
+            "name": "沖縄県",
+            "aliases": [
+                "沖縄"
+            ],
+            "tags": []
+        }
+    ]
+}

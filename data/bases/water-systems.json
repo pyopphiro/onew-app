@@ -1,0 +1,550 @@
+{
+    "id": "water-systems",
+    "answers": [
+        {
+            "name": "天塩川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "渚滑川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "湧別川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "常呂川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "網走川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "留萌川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "石狩川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "尻別川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "後志利別川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "鵡川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "沙流川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "釧路川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "十勝川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "岩木川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "高瀬川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "馬淵川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "北上川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "鳴瀬川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "名取川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "阿武隈川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "米代川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "雄物川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "子吉川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "最上川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "赤川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "久慈川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "那珂川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "利根川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "荒川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "多摩川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "鶴見川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "相模川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "富士川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "荒川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "阿賀野川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "信濃川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "関川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "姫川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "黒部川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "常願寺川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "神通川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "庄川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "小矢部川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "手取川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "梯川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "狩野川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "安倍川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大井川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "菊川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "天竜川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "豊川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "矢作川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "庄内川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "木曽川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "鈴鹿川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "雲出川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "櫛田川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "宮川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "由良川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "淀川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大和川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "円山川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "加古川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "揖保川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "紀の川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "新宮川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "九頭竜川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "北川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "千代川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "天神川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日野川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "斐伊川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "江の川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "高津川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "吉井川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "旭川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "高梁川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "芦田川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "太田川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "小瀬川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "佐波川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "吉野川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "那賀川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "土器川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "重信川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "肱川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "物部川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "仁淀川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "渡川 (四万十川)",
+            "aliases": ["渡川", "四万十川"],
+            "tags": []
+        },
+        {
+            "name": "遠賀川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "山国川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "筑後川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "矢部川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "松浦川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "六角川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "嘉瀬川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "本明川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "菊池川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "白川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "緑川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "球磨川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大分川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大野川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "番匠川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "五ケ瀬川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "小丸川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大淀川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "川内川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "肝属川",
+            "aliases": [],
+            "tags": []
+        }
+    ]
+}

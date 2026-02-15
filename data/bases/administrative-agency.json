@@ -1,0 +1,329 @@
+{
+    "id": "administrative-agency",
+    "answers": [
+        {
+            "name": "内閣",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "内閣官房",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "内閣法制局",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "人事院",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "内閣府",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "宮内庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "公正取引委員会",
+            "aliases": [],
+            "tags": [
+                "委員会"
+            ]
+        },
+        {
+            "name": "国家公安委員会",
+            "aliases": [],
+            "tags": [
+                "委員会"
+            ]
+        },
+        {
+            "name": "警察庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "個人情報保護委員会",
+            "aliases": [],
+            "tags": [
+                "委員会"
+            ]
+        },
+        {
+            "name": "カジノ管理委員会",
+            "aliases": [],
+            "tags": [
+                "委員会"
+            ]
+        },
+        {
+            "name": "金融庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "消費者庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "こども家庭庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "デジタル庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "復興庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "総務省",
+            "aliases": [],
+            "tags": [
+                "省"
+            ]
+        },
+        {
+            "name": "公害等調整委員会",
+            "aliases": [],
+            "tags": [
+                "委員会"
+            ]
+        },
+        {
+            "name": "消防庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "法務省",
+            "aliases": [],
+            "tags": [
+                "省"
+            ]
+        },
+        {
+            "name": "出入国在留管理庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "公安審査委員会",
+            "aliases": [],
+            "tags": [
+                "委員会"
+            ]
+        },
+        {
+            "name": "公安調査庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "外務省",
+            "aliases": [],
+            "tags": [
+                "省"
+            ]
+        },
+        {
+            "name": "財務省",
+            "aliases": [],
+            "tags": [
+                "省"
+            ]
+        },
+        {
+            "name": "国税庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "文部科学省",
+            "aliases": [],
+            "tags": [
+                "省"
+            ]
+        },
+        {
+            "name": "スポーツ庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "文化庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "厚生労働省",
+            "aliases": [],
+            "tags": [
+                "省"
+            ]
+        },
+        {
+            "name": "中央労働委員会",
+            "aliases": [],
+            "tags": [
+                "委員会"
+            ]
+        },
+        {
+            "name": "農林水産省",
+            "aliases": [],
+            "tags": [
+                "省"
+            ]
+        },
+        {
+            "name": "林野庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "水産庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "経済産業省",
+            "aliases": [],
+            "tags": [
+                "省"
+            ]
+        },
+        {
+            "name": "資源エネルギー庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "特許庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "中小企業庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "国土交通省",
+            "aliases": [],
+            "tags": [
+                "省"
+            ]
+        },
+        {
+            "name": "観光庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "気象庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "運輸安全委員会",
+            "aliases": [],
+            "tags": [
+                "委員会"
+            ]
+        },
+        {
+            "name": "海上保安庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "環境省",
+            "aliases": [],
+            "tags": [
+                "省"
+            ]
+        },
+        {
+            "name": "原子力規制委員会",
+            "aliases": [],
+            "tags": [
+                "委員会"
+            ]
+        },
+        {
+            "name": "防衛省",
+            "aliases": [],
+            "tags": [
+                "省"
+            ]
+        },
+        {
+            "name": "防衛装備庁",
+            "aliases": [],
+            "tags": [
+                "庁"
+            ]
+        },
+        {
+            "name": "会計検査院",
+            "aliases": [],
+            "tags": []
+        }
+    ]
+}

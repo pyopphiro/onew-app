@@ -1,0 +1,695 @@
+{
+    "id": "number-plate",
+    "answers": [
+        {
+            "name": "札幌",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "函館",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "旭川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "室蘭",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "苫小牧",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "釧路",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "知床",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "帯広",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "十勝",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "北見",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "青森",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "弘前",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "八戸",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "岩手",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "盛岡",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "平泉",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "宮城",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "仙台",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "秋田",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "山形",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "庄内",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "福島",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "会津",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "郡山",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "白河",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "いわき",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "水戸",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "土浦",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "つくば",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "宇都宮",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "日光",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "那須",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "とちぎ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "群馬",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "高崎",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "前橋",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "千葉",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "成田",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "野田",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "柏",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "松戸",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "習志野",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "船橋",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "市川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "袖ヶ浦",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "市原",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大宮",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "川口",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "熊谷",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "春日部",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "越谷",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "所沢",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "川越",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "品川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "世田谷",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "足立",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "江東",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "葛飾",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "江戸川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "練馬",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "杉並",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "板橋",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "多摩",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "八王子",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "長野",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "伊豆",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "横浜",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "川崎",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "相模",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "湘南",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "山梨",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "富士山",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "新潟",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "長岡",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "上越",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "松本",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "諏訪",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "南信州",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "安曇野",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "富山",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "石川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "金沢",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "名古屋",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三河",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "岡崎",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "豊田",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "尾張小牧",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "一宮",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "春日井",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "豊橋",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "静岡",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "沼津",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "浜松",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "岐阜",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "飛騨",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "三重",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "鈴鹿",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "四日市",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "伊勢志摩",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "福井",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大阪",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "なにわ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "和泉",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "堺",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "京都",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "奈良",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "飛鳥",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "滋賀",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "和歌山",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "神戸",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "姫路",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "広島",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "福山",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "鳥取",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "島根",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "出雲",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "岡山",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "倉敷",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "山口",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "下関",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "徳島",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "香川",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "高松",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "愛媛",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "高知",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "福岡",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "北九州",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "筑豊",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "久留米",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "佐賀",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "長崎",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "佐世保",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "熊本",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大分",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "宮崎",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "鹿児島",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "奄美",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "沖縄",
+            "aliases": [],
+            "tags": []
+        }
+    ]
+}

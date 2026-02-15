@@ -1,0 +1,637 @@
+{
+    "categories": [
+        {
+            "id": "geo",
+            "title": "地理"
+        },
+        {
+            "id": "history",
+            "title": "歴史"
+        },
+        {
+            "id": "social",
+            "title": "社会"
+        },
+        {
+            "id": "literature",
+            "title": "文学"
+        },
+        {
+            "id": "science",
+            "title": "科学"
+        },
+        {
+            "id": "sports",
+            "title": "スポーツ"
+        },
+        {
+            "id": "entertainment",
+            "title": "芸能"
+        },
+        {
+            "id": "anime-game",
+            "title": "アニメ・ゲーム"
+        }
+    ],
+    "themes": [
+        {
+            "id": "100-famous-mts",
+            "title": "日本百名山",
+            "category": "geo",
+            "base": "100-famous-mts"
+        },
+        {
+            "id": "constellation",
+            "title": "88星座",
+            "category": "science",
+            "base": "constellation",
+            "description": "国際天文学連合が定める88星座"
+        },
+        {
+            "id": "countries",
+            "title": "世界の国",
+            "category": "geo",
+            "base": "countries"
+        },
+        {
+            "id": "countries-eu",
+            "title": "EU加盟国",
+            "category": "geo",
+            "base": "countries",
+            "filter": {
+                "tags": ["EU"]
+            }
+        },
+        {
+            "id": "element",
+            "title": "元素",
+            "category": "science",
+            "base": "element"
+        },
+        {
+            "id": "prime-numbers-U100",
+            "title": "100以下の素数",
+            "category": "science",
+            "base": "prime-numbers",
+            "filter": {
+                "tags": ["U100"]
+            }
+        },
+        {
+            "id": "prime-numbers-U1000",
+            "title": "1,000以下の素数",
+            "category": "science",
+            "base": "prime-numbers",
+            "filter": {
+                "tags": ["U1000"]
+            }
+        },
+        {
+            "id": "prime-numbers",
+            "title": "10,000以下の素数",
+            "category": "science",
+            "base": "prime-numbers"
+        },
+        {
+            "id": "si-base-unit",
+            "title": "SI基本単位",
+            "category": "science",
+            "base": "si-base-unit"
+        },
+        {
+            "id": "national-park-jp",
+            "title": "国立公園 (日本)",
+            "category": "geo",
+            "base": "national-park-jp",
+            "description": "「国立公園」まで入力しなくても正解判定となります"
+        },
+        {
+            "id": "holiday-jp",
+            "title": "日本の祝日",
+            "category": "social",
+            "base": "holiday-jp"
+        },
+        {
+            "id": "administrative-agency",
+            "title": "日本の行政機関",
+            "category": "social",
+            "base": "administrative-agency"
+        },
+        {
+            "id": "ministry-agency",
+            "title": "日本の省庁",
+            "category": "social",
+            "base": "administrative-agency",
+            "filter": {
+                "tags": ["省", "庁"]
+            },
+            "description": "日本の行政機関のうち、「省」または「庁」で終わるもの"
+        },
+        {
+            "id": "nikkei-companies",
+            "title": "日経平均採用銘柄",
+            "category": "social",
+            "base": "nikkei-companies"
+        },
+        {
+            "id": "specified-ingredients",
+            "title": "特定原材料8品目",
+            "category": "social",
+            "base": "specified-ingredients-obligation",
+            "filter": {
+                "tags": ["O"]
+            },
+            "description": "消費者庁が表示義務として定める特定原材料"
+        },
+        {
+            "id": "specified-ingredients",
+            "title": "特定原材料等28品目",
+            "category": "social",
+            "base": "specified-ingredients",
+            "description": "消費者庁が定める特定原材料等"
+        },
+        {
+            "id": "number-plate",
+            "title": "日本のナンバープレート表示地域名",
+            "category": "geo",
+            "base": "number-plate"
+        },
+        {
+            "id": "fishing-ports",
+            "title": "特定第三種漁港",
+            "category": "geo",
+            "base": "fishing-ports"
+        },
+        {
+            "id": "olympic-city",
+            "title": "オリンピック開催地",
+            "category": "sports",
+            "base": "olympic-city"
+        },
+        {
+            "id": "olympic-city-s",
+            "title": "オリンピック開催地（夏）",
+            "category": "sports",
+            "base": "olympic-city",
+            "filter": {
+                "tags": ["S"]
+            }
+        },
+        {
+            "id": "olympic-city-w",
+            "title": "オリンピック開催地（冬）",
+            "category": "sports",
+            "base": "olympic-city",
+            "filter": {
+                "tags": ["W"]
+            }
+        },
+        {
+            "id": "yokoduna",
+            "title": "横綱",
+            "category": "sports",
+            "base": "yokoduna"
+        },
+        {
+            "id": "mlb-teams",
+            "title": "MLB球団",
+            "category": "sports",
+            "base": "mlb-teams"
+        },
+        {
+            "id": "leading-hitter",
+            "title": "プロ野球首位打者",
+            "category": "sports",
+            "base": "leading-hitter",
+            "description": "2リーグ制以降"
+        },
+        {
+            "id": "leading-hitter-c",
+            "title": "プロ野球首位打者 (セ・リーグ)",
+            "category": "sports",
+            "base": "leading-hitter",
+            "filter": {
+                "tags": ["C"]
+            },
+            "description": "2リーグ制以降"
+        },
+        {
+            "id": "leading-hitter-p",
+            "title": "プロ野球首位打者 (パ・リーグ)",
+            "category": "sports",
+            "base": "leading-hitter",
+            "filter": {
+                "tags": ["P"]
+            },
+            "description": "2リーグ制以降"
+        },
+        {
+            "id": "koshien-winner-schools-spring",
+            "title": "甲子園優勝校",
+            "category": "sports",
+            "base": "koshien-winner-schools",
+            "description": "優勝当時の校名でお答えください"
+        },
+        {
+            "id": "koshien-winner-schools-summer",
+            "title": "夏の甲子園優勝校",
+            "category": "sports",
+            "base": "koshien-winner-schools",
+            "filter": {
+                "tags": ["夏"]
+            },
+            "description": "優勝当時の校名でお答えください"
+        },
+        {
+            "id": "koshien-winner-schools",
+            "title": "春の甲子園優勝校",
+            "category": "sports",
+            "base": "koshien-winner-schools",
+            "filter": {
+                "tags": ["春"]
+            },
+            "description": "優勝当時の校名でお答えください"
+        },
+        {
+            "id": "prefectures",
+            "title": "都道府県",
+            "category": "geo",
+            "base": "prefectures"
+        },
+        {
+            "id": "municipality-jp",
+            "title": "日本の市区町村",
+            "category": "geo",
+            "base": "municipality-jp",
+            "description": "「市」「区」「町」「村」まで入力してください。特別区（東京23区）は含み、行政区（その他政令指定都市などの区）は含みません。"
+        },
+        {
+            "id": "municipality-jp-city",
+            "title": "日本の市",
+            "category": "geo",
+            "base": "municipality-jp",
+            "filter": {
+                "tags": ["市"]
+            },
+            "description": "「市」まで入力してください。"
+        },
+        {
+            "id": "municipality-jp-town",
+            "title": "日本の町",
+            "category": "geo",
+            "base": "municipality-jp",
+            "filter": {
+                "tags": ["町"]
+            },
+            "description": "「町」まで入力してください。"
+        },
+        {
+            "id": "municipality-jp-village",
+            "title": "日本の村",
+            "category": "geo",
+            "base": "municipality-jp",
+            "filter": {
+                "tags": ["村"]
+            },
+            "description": "「村」まで入力してください。"
+        },
+        {
+            "id": "municipality-jp-ward",
+            "title": "東京23区",
+            "category": "geo",
+            "base": "municipality-jp",
+            "filter": {
+                "tags": ["区"]
+            },
+            "description": "「区」まで入力してください。"
+        },
+        {
+            "id": "usa-50states",
+            "title": "アメリカ50州",
+            "category": "geo",
+            "base": "usa-50states",
+            "description": "ワシントンD.C.は除くアメリカ合衆国の50州"
+        },
+        {
+            "id": "yamanote-line",
+            "title": "山手線の駅",
+            "category": "geo",
+            "base": "yamanote-line"
+        },
+        {
+            "id": "osaka-metro-station",
+            "title": "Osaka Metroの駅",
+            "category": "geo",
+            "base": "osaka-metro-station",
+            "description": "ニュートラムの駅も含む"
+        },
+        {
+            "id": "nagoya-subway",
+            "title": "名古屋市営地下鉄の駅",
+            "category": "geo",
+            "base": "nagoya-subway"
+        },
+        {
+            "id": "shinkansen-station",
+            "title": "新幹線駅",
+            "category": "geo",
+            "base": "shinkansen-station",
+            "filter": {
+                "tags": ["東海道", "山陽", "九州", "東北", "北海道", "西九州", "上越", "北陸"]
+            }
+        },
+        {
+            "id": "shinkansen-station-include-mini",
+            "title": "新幹線駅 [ミニ新幹線含む]",
+            "category": "geo",
+            "base": "shinkansen-station"
+        },
+        {
+            "id": "water-systems",
+            "title": "一級水系",
+            "category": "geo",
+            "base": "water-systems",
+            "description": "日本に存在する一級水系の名称"
+        },
+        {
+            "id": "university-jp",
+            "title": "日本の大学",
+            "category": "geo",
+            "base": "university-jp"
+        },
+        {
+            "id": "university-jp-national",
+            "title": "日本の国立大学",
+            "category": "geo",
+            "base": "university-jp",
+            "filter": {
+                "tags": ["国"]
+            }
+        },
+        {
+            "id": "ghibli-movie",
+            "title": "ジブリ映画",
+            "category": "entertainment",
+            "base": "ghibli-movie",
+            "description": "2025年現在"
+        },
+        {
+            "id": "m1-champions",
+            "title": "M-1グランプリ歴代優勝者",
+            "category": "entertainment",
+            "base": "m1-champions"
+        },
+        {
+            "id": "taiga-drama",
+            "title": "NHK大河ドラマ",
+            "category": "entertainment",
+            "base": "taiga-drama"
+        },
+        {
+            "id": "peoples-honor-award-jp",
+            "title": "国民栄誉賞受賞者",
+            "category": "entertainment",
+            "base": "peoples-honor-award-jp"
+        },
+        {
+            "id": "gengou",
+            "title": "日本の元号",
+            "category": "history",
+            "base": "gengou"
+        },
+        {
+            "id": "emperor-jp",
+            "title": "歴代天皇",
+            "category": "history",
+            "base": "emperor-jp"
+        },
+        {
+            "id": "president-usa",
+            "title": "歴代アメリカ大統領",
+            "category": "history",
+            "base": "president-usa"
+        },
+        {
+            "id": "hyakunin-isshu-kajin",
+            "title": "小倉百人一首の歌人",
+            "category": "literature",
+            "base": "hyakunin-isshu-kajin"
+        },
+        {
+            "id": "akutagawa-prize",
+            "title": "芥川賞受賞作家",
+            "category": "literature",
+            "base": "akutagawa-prize"
+        },
+        {
+            "id": "honya-taisho",
+            "title": "本屋大賞受賞作",
+            "category": "literature",
+            "base": "honya-taisho"
+        },
+        {
+            "id": "pokemon",
+            "title": "ポケモン",
+            "category": "anime-game",
+            "base": "pokemon"
+        },
+        {
+            "id": "pokemon-D",
+            "title": "あくタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "あく"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-R",
+            "title": "いわタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "いわ"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-F",
+            "title": "かくとうタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "かくとう"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-G",
+            "title": "くさタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "くさ"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-I",
+            "title": "こおりタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "こおり"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-Gr",
+            "title": "じめんタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "じめん"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-E",
+            "title": "でんきタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "でんき"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-Po",
+            "title": "どくタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "どく"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-S",
+            "title": "はがねタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "はがね"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-Fl",
+            "title": "ひこうタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "ひこう"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-Fr",
+            "title": "ほのおタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "ほのお"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-W",
+            "title": "みずタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "みず"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-B",
+            "title": "むしタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "むし"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-Ps",
+            "title": "エスパータイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "エスパー"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-Gh",
+            "title": "ゴーストタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "ゴースト"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-Dr",
+            "title": "ドラゴンタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "ドラゴン"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-N",
+            "title": "ノーマルタイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "ノーマル"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-Fy",
+            "title": "フェアリータイプのポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "フェアリー"
+                ]
+            }
+        }
+    ]
+}

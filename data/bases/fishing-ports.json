@@ -1,0 +1,70 @@
+{
+    "id": "fishing-ports",
+    "answers": [
+        {
+            "name": "八戸漁港",
+            "aliases": ["八戸"],
+            "tags": []
+        },
+        {
+            "name": "気仙沼漁港",
+            "aliases": ["気仙沼"],
+            "tags": []
+        },
+        {
+            "name": "石巻漁港",
+            "aliases": ["石巻"],
+            "tags": []
+        },
+        {
+            "name": "塩釜漁港",
+            "aliases": ["塩釜"],
+            "tags": []
+        },
+        {
+            "name": "銚子漁港",
+            "aliases": ["銚子"],
+            "tags": []
+        },
+        {
+            "name": "三崎漁港",
+            "aliases": ["三崎"],
+            "tags": []
+        },
+        {
+            "name": "焼津漁港",
+            "aliases": ["焼津"],
+            "tags": []
+        },
+        {
+            "name": "境漁港",
+            "aliases": ["境"],
+            "tags": []
+        },
+        {
+            "name": "浜田漁港",
+            "aliases": ["浜田"],
+            "tags": []
+        },
+        {
+            "name": "下関漁港",
+            "aliases": ["下関"],
+            "tags": []
+        },
+        {
+            "name": "博多漁港",
+            "aliases": ["博多"],
+            "tags": []
+        },
+        {
+            "name": "長崎漁港",
+            "aliases": ["長崎"],
+            "tags": []
+        },
+        {
+            "name": "枕崎漁港",
+            "aliases": ["枕崎"],
+            "tags": []
+        }
+    ]
+}

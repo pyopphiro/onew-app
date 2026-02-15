@@ -1,0 +1,1088 @@
+{
+    "id": "countries",
+    "answers": [
+        {
+            "name": "日本",
+            "aliases": [
+                "日本国"
+            ],
+            "tags": []
+        },
+        {
+            "name": "アイスランド",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アイルランド",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "アゼルバイジャン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アフガニスタン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アメリカ",
+            "aliases": [
+                "アメリカ合衆国"
+            ],
+            "tags": []
+        },
+        {
+            "name": "アラブ首長国連邦",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アルジェリア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アルゼンチン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アルバニア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アルメニア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アンゴラ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アンティグア・バーブーダ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アンドラ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "イエメン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "イギリス",
+            "aliases": [
+                "グレートブリテン及び北アイルランド連合王国"
+            ],
+            "tags": []
+        },
+        {
+            "name": "イスラエル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "イタリア",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "イラク",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "イラン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "インド",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "インドネシア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ウガンダ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ウクライナ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ウズベキスタン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ウルグアイ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "エクアドル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "エジプト",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "エストニア",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "エスワティニ",
+            "aliases": [
+                "エスワティニ王国"
+            ],
+            "tags": []
+        },
+        {
+            "name": "エチオピア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "エリトリア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "エルサルバドル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "オマーン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "オランダ",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "オーストラリア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "オーストリア",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "カザフスタン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "カタール",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "カナダ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "カメルーン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "韓国",
+            "aliases": [
+                "大韓民国"
+            ],
+            "tags": []
+        },
+        {
+            "name": "カンボジア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ガイアナ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "カーボヴェルデ",
+            "aliases": [
+                "カーボベルデ"
+            ],
+            "tags": []
+        },
+        {
+            "name": "ガボン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ガンビア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ガーナ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "北朝鮮",
+            "aliases": [
+                "朝鮮民主主義人民共和国"
+            ],
+            "tags": []
+        },
+        {
+            "name": "キプロス",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "キューバ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "キリバス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "キルギス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ギニア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ギニアビサウ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ギリシャ",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "クウェート",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "クック諸島",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "クロアチア",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "グアテマラ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "グレナダ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ケニア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "コスタリカ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "コソボ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "コモロ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "コロンビア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "コンゴ民主共和国",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "コンゴ共和国",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "コートジボワール",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "サウジアラビア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "サモア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "サントメ・プリンシペ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "サンマリノ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ザンビア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "シエラレオネ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "シリア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "シンガポール",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ジブチ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ジャマイカ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ジョージア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ジンバブエ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "スイス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "スウェーデン",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "スペイン",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "スリナム",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "スリランカ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "スロバキア",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "スロベニア",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "スーダン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "赤道ギニア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "セネガル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "セルビア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "セントクリストファー・ネービス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "セントビンセント・グレナディーン",
+            "aliases": [
+                "セントビンセントおよびグレナディーン諸島"
+            ],
+            "tags": []
+        },
+        {
+            "name": "セントルシア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "セーシェル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ソマリア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ソロモン諸島",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "タイ",
+            "aliases": [
+                "タイ王国"
+            ],
+            "tags": []
+        },
+        {
+            "name": "台湾",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "タジキスタン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "タンザニア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "チェコ",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "チャド",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "中央アフリカ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "中国",
+            "aliases": [
+                "中華人民共和国"
+            ],
+            "tags": []
+        },
+        {
+            "name": "チュニジア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "チリ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ツバル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "デンマーク",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "トリニダード・トバゴ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "トルクメニスタン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "トルコ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "トンガ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "トーゴ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ドイツ",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "ドミニカ共和国",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ドミニカ国",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ナイジェリア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ナウル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ナミビア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ニウエ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ニカラグア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ニジェール",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ニュージーランド",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ネパール",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ノルウェー",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ハイチ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ハンガリー",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "バチカン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "バヌアツ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "バハマ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "バルバドス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "バングラデシュ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "バーレーン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "パキスタン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "パナマ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "パプアニューギニア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "パラオ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "パラグアイ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "パレスチナ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東ティモール",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "フィジー",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "フィリピン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "フィンランド",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "フランス",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "ブラジル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ブルガリア",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "ブルキナファソ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ブルネイ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ブルンジ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ブータン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ベトナム",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ベナン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ベネズエラ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ベラルーシ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ベリーズ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ベルギー",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "ペルー",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "香港",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ホンジュラス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ボスニア・ヘルツェゴビナ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ボツワナ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ボリビア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ポルトガル",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "ポーランド",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "マカオ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "北マケドニア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "マダガスカル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "マラウイ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "マリ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "マルタ",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "マレーシア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "マーシャル諸島",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ミクロネシア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "南アフリカ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "南スーダン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ミャンマー",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "メキシコ",
+            "aliases": [
+                "メキシコ合衆国"
+            ],
+            "tags": []
+        },
+        {
+            "name": "モザンビーク",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "モナコ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "モルディブ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "モルドバ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "モロッコ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "モンゴル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "モンテネグロ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "モーリシャス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "モーリタニア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ヨルダン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ラオス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ラトビア",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "リトアニア",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "リヒテンシュタイン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "リビア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "リベリア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ルクセンブルク",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "ルワンダ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ルーマニア",
+            "aliases": [],
+            "tags": [
+                "EU"
+            ]
+        },
+        {
+            "name": "レソト",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "レバノン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ロシア",
+            "aliases": [
+                "ロシア連邦"
+            ],
+            "tags": []
+        }
+    ]
+}

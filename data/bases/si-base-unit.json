@@ -1,0 +1,61 @@
+{
+    "id": "si-base-unit",
+    "answers": [
+        {
+            "name": "s [秒]",
+            "aliases": [
+                "s",
+                "秒"
+            ],
+            "tags": []
+        },
+        {
+            "name": "m [メートル]",
+            "aliases": [
+                "m",
+                "メートル"
+            ],
+            "tags": []
+        },
+        {
+            "name": "kg [キログラム]",
+            "aliases": [
+                "kg",
+                "キログラム"
+            ],
+            "tags": []
+        },
+        {
+            "name": "A [アンペア]",
+            "aliases": [
+                "A",
+                "アンペア"
+            ],
+            "tags": []
+        },
+        {
+            "name": "K [ケルビン]",
+            "aliases": [
+                "K",
+                "ケルビン"
+            ],
+            "tags": []
+        },
+        {
+            "name": "mol [モル]",
+            "aliases": [
+                "mol",
+                "モル"
+            ],
+            "tags": []
+        },
+        {
+            "name": "cd [カンデラ]",
+            "aliases": [
+                "cd",
+                "カンデラ"
+            ],
+            "tags": []
+        }
+    ]
+}

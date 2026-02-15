@@ -1,0 +1,201 @@
+{
+    "id": "specified-ingredients",
+    "answers": [
+        {
+            "name": "えび",
+            "aliases": [],
+            "tags": [
+                "O"
+            ]
+        },
+        {
+            "name": "かに",
+            "aliases": [],
+            "tags": [
+                "O"
+            ]
+        },
+        {
+            "name": "くるみ",
+            "aliases": [],
+            "tags": [
+                "O"
+            ]
+        },
+        {
+            "name": "小麦",
+            "aliases": [],
+            "tags": [
+                "O"
+            ]
+        },
+        {
+            "name": "そば",
+            "aliases": [],
+            "tags": [
+                "O"
+            ]
+        },
+        {
+            "name": "卵",
+            "aliases": [],
+            "tags": [
+                "O"
+            ]
+        },
+        {
+            "name": "乳",
+            "aliases": [],
+            "tags": [
+                "O"
+            ]
+        },
+        {
+            "name": "落花生（ピーナッツ）",
+            "aliases": ["落花生", "ピーナッツ"],
+            "tags": [
+                "O"
+            ]
+        },
+        {
+            "name": "アーモンド",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "あわび",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "いか",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "いくら",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "オレンジ",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "カシューナッツ",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "キウイフルーツ",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "牛肉",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "ごま",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "さけ",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "さば",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "大豆",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "鶏肉",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "バナナ",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "豚肉",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "マカダミアナッツ",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "もも",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "やまいも",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "りんご",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        },
+        {
+            "name": "ゼラチン",
+            "aliases": [],
+            "tags": [
+                "R"
+            ]
+        }
+    ]
+}
