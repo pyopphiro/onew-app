@@ -99,6 +99,18 @@
             "base": "si-base-unit"
         },
         {
+            "id": "protein-amino-acid",
+            "title": "タンパク質を構成するアミノ酸",
+            "category": "science",
+            "base": "protein-amino-acid"
+        },
+        {
+            "id": "elementary-particle",
+            "title": "標準模型における素粒子",
+            "category": "science",
+            "base": "elementary-particle"
+        },
+        {
             "id": "national-park-jp",
             "title": "国立公園 (日本)",
             "category": "geo",
@@ -110,6 +122,12 @@
             "title": "日本の祝日",
             "category": "social",
             "base": "holiday-jp"
+        },
+        {
+            "id": "24sekki",
+            "title": "二十四節気",
+            "category": "social",
+            "base": "24sekki"
         },
         {
             "id": "administrative-agency",
@@ -253,6 +271,19 @@
             "description": "優勝当時の校名でお答えください"
         },
         {
+            "id": "j-league-club",
+            "title": "Jリーグ加盟クラブ",
+            "category": "sports",
+            "base": "j-league-club"
+        },
+        {
+            "id": "mahjong-hand",
+            "title": "麻雀の役",
+            "category": "sports",
+            "base": "mahjong-hand",
+            "description": "日本プロ麻雀連盟が定める役"
+        },
+        {
             "id": "prefectures",
             "title": "都道府県",
             "category": "geo",
@@ -382,6 +413,12 @@
             "base": "m1-champions"
         },
         {
+            "id": "r1-champions",
+            "title": "R-1グランプリ歴代優勝者",
+            "category": "entertainment",
+            "base": "r1-champions"
+        },
+        {
             "id": "taiga-drama",
             "title": "NHK大河ドラマ",
             "category": "entertainment",
@@ -404,6 +441,12 @@
             "title": "歴代天皇",
             "category": "history",
             "base": "emperor-jp"
+        },
+        {
+            "id": "prime-minister-jp",
+            "title": "歴代内閣総理大臣",
+            "category": "history",
+            "base": "prime-minister-jp"
         },
         {
             "id": "president-usa",

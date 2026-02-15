@@ -1,0 +1,305 @@
+{
+    "id": "j-league-club",
+    "answers": [
+        {
+            "name": "鹿島アントラーズ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "浦和レッズ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "柏レイソル",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "東京ヴェルディ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "川崎フロンターレ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "清水エスパルス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "京都サンガF.C.",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "セレッソ大阪",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ファジアーノ岡山",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アビスパ福岡",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "水戸ホーリーホック",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ジェフユナイテッド千葉",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ＦＣ東京",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ＦＣ町田ゼルビア",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "横浜Ｆ・マリノス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "名古屋グランパス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ガンバ大阪",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ヴィッセル神戸",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "サンフレッチェ広島",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "Ｖ・ファーレン長崎",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "北海道コンサドーレ札幌",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ベガルタ仙台",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "モンテディオ山形",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "栃木シティ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "横浜ＦＣ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ヴァンフォーレ甲府",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "カターレ富山",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "藤枝ＭＹＦＣ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ＦＣ今治",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "大分トリニータ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ヴァンラーレ八戸",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ブラウブリッツ秋田",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "いわきＦＣ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ＲＢ大宮アルディージャ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "湘南ベルマーレ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アルビレックス新潟",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ジュビロ磐田",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "徳島ヴォルティス",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "サガン鳥栖",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "テゲバジャーロ宮崎",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "福島ユナイテッドＦＣ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ザスパ群馬",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "松本山雅ＦＣ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ツエーゲン金沢",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "レイラック滋賀ＦＣ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "奈良クラブ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "レノファ山口ＦＣ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "愛媛ＦＣ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ギラヴァンツ北九州",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "鹿児島ユナイテッドＦＣ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "栃木ＳＣ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ＳＣ相模原",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ＡＣ長野パルセイロ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ＦＣ岐阜",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ＦＣ大阪",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ガイナーレ鳥取",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "カマタマーレ讃岐",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "高知ユナイテッドＳＣ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ロアッソ熊本",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ＦＣ琉球",
+            "aliases": [],
+            "tags": []
+        }
+    ]
+}

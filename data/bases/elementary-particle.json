@@ -1,0 +1,90 @@
+{
+    "id": "elementary-particle",
+    "answers": [
+        {
+            "name": "アップクォーク",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "チャームクォーク",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "トップクォーク",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ダウンクォーク",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ストレンジクォーク",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ボトムクォーク",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "光子",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "電子",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ミュー粒子",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "タウ粒子",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "電子ニュートリノ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ミューニュートリノ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "タウニュートリノ",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "Wボソン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "Zボソン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "グルーオン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ヒッグス粒子",
+            "aliases": [],
+            "tags": []
+        }
+    ]
+}

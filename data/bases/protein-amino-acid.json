@@ -1,0 +1,115 @@
+{
+    "id": "protein-amino-acid",
+    "answers": [
+        {
+            "name": "ロイシン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "リシン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "メチオニン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "プロリン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "フェニルアラニン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ピロリシン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "ヒスチジン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "バリン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "トレオニン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "トリプトファン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "チロシン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "セレノシステイン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "セリン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "システイン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "グルタミン酸",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "グルタミン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "グリシン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "イソロイシン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アルギニン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アラニン",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アスパラギン酸",
+            "aliases": [],
+            "tags": []
+        },
+        {
+            "name": "アスパラギン",
+            "aliases": [],
+            "tags": []
+        }
+    ]
+}
