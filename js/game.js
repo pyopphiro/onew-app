@@ -112,7 +112,7 @@ function renderAnsweredList() {
     if (answeredSet.has(ans)) {
       const li = document.createElement("li");
       li.textContent = ans;
-      
+
       if (lastAnswered && lastAnswered.includes(ans)) {
         li.classList.add("recent");
       }

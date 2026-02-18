@@ -6,10 +6,11 @@ fetch("data/index.json")
 
     index.categories.forEach(cat => {
 
-      // カテゴリタイトル
-      const h4 = document.createElement("h4");
-      h4.textContent = cat.title;
-      container.appendChild(h4);
+      // カテゴリコンテナ（details/summary）
+      const details = document.createElement("details");
+      const summary = document.createElement("summary");
+      summary.textContent = cat.title;
+      details.appendChild(summary);
 
       const ul = document.createElement("ul");
 
@@ -28,7 +29,9 @@ fetch("data/index.json")
           ul.appendChild(li);
         });
 
-      container.appendChild(ul);
+      details.appendChild(ul);
+      details.open = false; // デフォルトは閉じておく
+      container.appendChild(details);
     });
 
   });

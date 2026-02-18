@@ -1,53 +1,49 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>古今東西</title>
   <link rel="stylesheet" href="css/style.css" />
 </head>
+
 <body>
 
-<header>
-  <a href="index.html">← トップへ戻る</a>
-</header>
+  <div class="common-header" onclick="location.href='index.html'">ONEW古今東西</div>
 
-<h1 id="themeTitle"></h1>
-<div id="themeDescription"></div>
+  <h1 id="themeTitle"></h1>
+  <div id="themeDescription"></div>
 
-<div class="input-area">
-  <input
-    type="text"
-    id="answerInput"
-    placeholder="解答を入力"
-    autocomplete="off"
-  />
+  <div class="input-area">
+    <input type="text" id="answerInput" placeholder="解答を入力" autocomplete="off" />
 
-  <div class="actions">
-    <button id="judgeButton" class="primary">判定</button>
-    <button id="giveUpButton" class="secondary">ギブアップ</button>
+    <div class="actions">
+      <button id="judgeButton" class="primary">判定</button>
+      <button id="giveUpButton" class="secondary">ギブアップ</button>
+    </div>
   </div>
-</div>
 
-<div id="status" class="status"></div>
-<div id="count"></div>
+  <div id="status" class="status"></div>
+  <div id="count"></div>
 
-<div id="result" class="result" style="display:none;">
-  <h2 id="resultTitle"></h2>
-  <p id="resultSummary"></p>
+  <div id="result" class="result" style="display:none;">
+    <h2 id="resultTitle"></h2>
+    <p id="resultSummary"></p>
 
-  <a href="index.html" class="result-link">トップへ戻る</a>
-</div>
+    <a href="index.html" class="result-link">トップへ戻る</a>
+    <button id="retryButton" class="retryButton" onclick="location.reload()">再挑戦</button>
+  </div>
 
-<section id="answeredSection">
-  <h3>解答済み</h3>
-  <ul id="answeredList"></ul>
-</section>
+  <section id="answeredSection">
+    <h3>解答済み</h3>
+    <ul id="answeredList"></ul>
+  </section>
 
 
-<h3 id="allAnswersTitle" style="display:none;">全解答</h3>
-<ul id="allAnswers" style="display:none;"></ul>
+  <h3 id="allAnswersTitle" style="display:none;">全解答</h3>
+  <ul id="allAnswers" style="display:none;"></ul>
 
-<script src="js/game.js"></script>
+  <script src="js/game.js"></script>
 
 </body>

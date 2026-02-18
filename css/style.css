@@ -1,11 +1,16 @@
 :root {
-  --main: #2563eb;        /* 青 */
-  --main-light: #dbeafe; /* 薄青 */
-  --ok: #16a34a;          /* 正解 */
-  --ng: #dc2626;          /* 不正解 */
+  --main: #2563eb;
+  /* 青 */
+  --main-light: #dbeafe;
+  /* 薄青 */
+  --ok: #16a34a;
+  /* 正解 */
+  --ng: #dc2626;
+  /* 不正解 */
   --text: #1f2937;
   --bg: #e5edf5;
 }
+
 html {
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
@@ -18,7 +23,8 @@ body {
   max-width: 720px;
   margin: 0 auto;
   padding: 20px;
-  font-size: 16px; /* 基本サイズ（PC） */
+  font-size: 16px;
+  /* 基本サイズ（PC） */
   line-height: 1.6;
 }
 
@@ -164,6 +170,15 @@ button:disabled {
   border-radius: 6px;
 }
 
+.retryButton {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 16px;
+  background: var(--main-light);
+  color: var(--main);
+  border-radius: 6px;
+}
+
 
 /* =========================
 モバイル最適化
@@ -172,8 +187,10 @@ button:disabled {
   html {
     font-size: 18px;
   }
+
   body {
-    font-size: 20px; /* 全体の文字を大きく */
+    font-size: 20px;
+    /* 全体の文字を大きく */
     padding: 16px;
   }
 
@@ -190,10 +207,87 @@ button:disabled {
     font-size: 1.1rem;
     padding: 14px 18px;
   }
+
   #answeredList {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 6px 12px;
     border: 1px solid #c0c0c0;
   }
+}
+
+/* =========================
+   共通ヘッダ
+   ========================= */
+.common-header {
+  background-color: var(--main);
+  color: #fff;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.common-header:hover {
+  opacity: 0.9;
+}
+
+/* =========================
+   カテゴリアコーディオン
+   ========================= */
+details {
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fff;
+  overflow: hidden;
+}
+
+summary {
+  padding: 12px 16px;
+  background-color: var(--main-light);
+  font-weight: bold;
+  cursor: pointer;
+  list-style: none;
+  /* デフォルトの矢印を消す（モダンブラウザ） */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* 独自の矢印アイコン（あってもなくてもよいが、分かりやすさのため） */
+summary::after {
+  content: "+";
+  font-size: 1.2rem;
+  transition: transform 0.2s;
+}
+
+details[open] summary::after {
+  transform: rotate(45deg);
+}
+
+details ul {
+  margin: 0;
+  padding: 10px 20px;
+  list-style: none;
+}
+
+details li {
+  margin-bottom: 8px;
+}
+
+details li:last-child {
+  margin-bottom: 0;
+}
+
+/* =========================
+   リトライボタン
+   ========================= */
+button.retry {
+  background-color: #f59e0b;
+  /* アンバー/オレンジ系 */
+  color: white;
+  margin-left: 10px;
 }
