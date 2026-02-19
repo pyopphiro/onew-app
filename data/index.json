@@ -59,7 +59,9 @@
             "category": "geo",
             "base": "countries",
             "filter": {
-                "tags": ["EU"]
+                "tags": [
+                    "EU"
+                ]
             }
         },
         {
@@ -74,7 +76,9 @@
             "category": "science",
             "base": "prime-numbers",
             "filter": {
-                "tags": ["U100"]
+                "tags": [
+                    "U100"
+                ]
             }
         },
         {
@@ -83,7 +87,9 @@
             "category": "science",
             "base": "prime-numbers",
             "filter": {
-                "tags": ["U1000"]
+                "tags": [
+                    "U1000"
+                ]
             }
         },
         {
@@ -141,7 +147,10 @@
             "category": "social",
             "base": "administrative-agency",
             "filter": {
-                "tags": ["省", "庁"]
+                "tags": [
+                    "省",
+                    "庁"
+                ]
             },
             "description": "日本の行政機関のうち、「省」または「庁」で終わるもの"
         },
@@ -152,12 +161,14 @@
             "base": "nikkei-companies"
         },
         {
-            "id": "specified-ingredients",
+            "id": "specified-ingredients-obligation",
             "title": "特定原材料8品目",
             "category": "social",
-            "base": "specified-ingredients-obligation",
+            "base": "specified-ingredients",
             "filter": {
-                "tags": ["O"]
+                "tags": [
+                    "O"
+                ]
             },
             "description": "消費者庁が表示義務として定める特定原材料"
         },
@@ -192,7 +203,9 @@
             "category": "sports",
             "base": "olympic-city",
             "filter": {
-                "tags": ["S"]
+                "tags": [
+                    "S"
+                ]
             }
         },
         {
@@ -201,7 +214,9 @@
             "category": "sports",
             "base": "olympic-city",
             "filter": {
-                "tags": ["W"]
+                "tags": [
+                    "W"
+                ]
             }
         },
         {
@@ -229,7 +244,9 @@
             "category": "sports",
             "base": "leading-hitter",
             "filter": {
-                "tags": ["C"]
+                "tags": [
+                    "C"
+                ]
             },
             "description": "2リーグ制以降"
         },
@@ -239,7 +256,9 @@
             "category": "sports",
             "base": "leading-hitter",
             "filter": {
-                "tags": ["P"]
+                "tags": [
+                    "P"
+                ]
             },
             "description": "2リーグ制以降"
         },
@@ -256,7 +275,9 @@
             "category": "sports",
             "base": "koshien-winner-schools",
             "filter": {
-                "tags": ["夏"]
+                "tags": [
+                    "夏"
+                ]
             },
             "description": "優勝当時の校名でお答えください"
         },
@@ -266,7 +287,9 @@
             "category": "sports",
             "base": "koshien-winner-schools",
             "filter": {
-                "tags": ["春"]
+                "tags": [
+                    "春"
+                ]
             },
             "description": "優勝当時の校名でお答えください"
         },
@@ -302,7 +325,9 @@
             "category": "geo",
             "base": "municipality-jp",
             "filter": {
-                "tags": ["市"]
+                "tags": [
+                    "市"
+                ]
             },
             "description": "「市」まで入力してください。"
         },
@@ -312,7 +337,9 @@
             "category": "geo",
             "base": "municipality-jp",
             "filter": {
-                "tags": ["町"]
+                "tags": [
+                    "町"
+                ]
             },
             "description": "「町」まで入力してください。"
         },
@@ -322,7 +349,9 @@
             "category": "geo",
             "base": "municipality-jp",
             "filter": {
-                "tags": ["村"]
+                "tags": [
+                    "村"
+                ]
             },
             "description": "「村」まで入力してください。"
         },
@@ -332,7 +361,9 @@
             "category": "geo",
             "base": "municipality-jp",
             "filter": {
-                "tags": ["区"]
+                "tags": [
+                    "区"
+                ]
             },
             "description": "「区」まで入力してください。"
         },
@@ -368,7 +399,16 @@
             "category": "geo",
             "base": "shinkansen-station",
             "filter": {
-                "tags": ["東海道", "山陽", "九州", "東北", "北海道", "西九州", "上越", "北陸"]
+                "tags": [
+                    "東海道",
+                    "山陽",
+                    "九州",
+                    "東北",
+                    "北海道",
+                    "西九州",
+                    "上越",
+                    "北陸"
+                ]
             }
         },
         {
@@ -396,7 +436,9 @@
             "category": "geo",
             "base": "university-jp",
             "filter": {
-                "tags": ["国"]
+                "tags": [
+                    "国"
+                ]
             }
         },
         {
