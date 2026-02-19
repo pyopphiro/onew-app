@@ -238,8 +238,6 @@ ul {
 
 .answer-ng {
   color: var(--ng);
-  text-decoration: line-through;
-  opacity: 0.7;
 }
 
 /* =========================
