@@ -180,6 +180,12 @@
             "description": "消費者庁が定める特定原材料等"
         },
         {
+            "id": "kanji-of-year",
+            "title": "今年の漢字",
+            "category": "social",
+            "base": "kanji-of-year"
+        },
+        {
             "id": "number-plate",
             "title": "日本のナンバープレート表示地域名",
             "category": "geo",
@@ -513,6 +519,78 @@
             "title": "本屋大賞受賞作",
             "category": "literature",
             "base": "honya-taisho"
+        },
+        {
+            "id": "kanji-elementary-school",
+            "title": "小学校で習う漢字",
+            "category": "literature",
+            "base": "kanji-elementary-school"
+        },
+        {
+            "id": "kanji-elementary-school-1y",
+            "title": "小学校1年生で習う漢字",
+            "category": "literature",
+            "base": "kanji-elementary-school",
+            "filter": {
+                "tags": [
+                    "1"
+                ]
+            }
+        },
+        {
+            "id": "kanji-elementary-school-2y",
+            "title": "小学校2年生で習う漢字",
+            "category": "literature",
+            "base": "kanji-elementary-school",
+            "filter": {
+                "tags": [
+                    "2"
+                ]
+            }
+        },
+        {
+            "id": "kanji-elementary-school-3y",
+            "title": "小学校3年生で習う漢字",
+            "category": "literature",
+            "base": "kanji-elementary-school",
+            "filter": {
+                "tags": [
+                    "3"
+                ]
+            }
+        },
+        {
+            "id": "kanji-elementary-school-4y",
+            "title": "小学校4年生で習う漢字",
+            "category": "literature",
+            "base": "kanji-elementary-school",
+            "filter": {
+                "tags": [
+                    "4"
+                ]
+            }
+        },
+        {
+            "id": "kanji-elementary-school-5y",
+            "title": "小学校5年生で習う漢字",
+            "category": "literature",
+            "base": "kanji-elementary-school",
+            "filter": {
+                "tags": [
+                    "5"
+                ]
+            }
+        },
+        {
+            "id": "kanji-elementary-school-6y",
+            "title": "小学校6年生で習う漢字",
+            "category": "literature",
+            "base": "kanji-elementary-school",
+            "filter": {
+                "tags": [
+                    "6"
+                ]
+            }
         },
         {
             "id": "pokemon",

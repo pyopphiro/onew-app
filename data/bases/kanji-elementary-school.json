@@ -1,0 +1,7187 @@
+{
+    "id": "kanji-elementary-school",
+    "answers": [
+        {
+            "name": "一",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "右",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "雨",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "円",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "王",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "音",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "下",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "火",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "花",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "貝",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "学",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "気",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "九",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "休",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "玉",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "金",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "空",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "月",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "犬",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "見",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "五",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "口",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "校",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "左",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "三",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "山",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "子",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "四",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "糸",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "字",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "耳",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "七",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "車",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "手",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "十",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "出",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "女",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "小",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "上",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "森",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "人",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "水",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "正",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "生",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "青",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "夕",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "石",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "赤",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "千",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "川",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "先",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "早",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "草",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "足",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "村",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "大",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "男",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "竹",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "中",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "虫",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "町",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "天",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "田",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "土",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "二",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "日",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "入",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "年",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "白",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "八",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "百",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "文",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "木",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "本",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "名",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "目",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "立",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "力",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "林",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "六",
+            "aliases": [],
+            "tags": [
+                "1"
+            ]
+        },
+        {
+            "name": "引",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "羽",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "雲",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "園",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "遠",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "何",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "科",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "夏",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "家",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "歌",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "画",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "回",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "会",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "海",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "絵",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "外",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "角",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "楽",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "活",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "間",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "丸",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "岩",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "顔",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "汽",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "記",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "帰",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "弓",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "牛",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "魚",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "京",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "強",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "教",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "近",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "兄",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "形",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "計",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "元",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "言",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "原",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "戸",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "古",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "午",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "後",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "語",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "工",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "公",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "広",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "交",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "光",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "考",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "行",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "高",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "黄",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "合",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "谷",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "国",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "黒",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "今",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "才",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "細",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "作",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "算",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "止",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "市",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "矢",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "姉",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "思",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "紙",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "寺",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "自",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "時",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "室",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "社",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "弱",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "首",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "秋",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "週",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "春",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "書",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "少",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "場",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "色",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "食",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "心",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "新",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "親",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "図",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "数",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "西",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "声",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "星",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "晴",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "切",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "雪",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "船",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "線",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "前",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "組",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "走",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "多",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "太",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "体",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "台",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "地",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "池",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "知",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "茶",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "昼",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "長",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "鳥",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "朝",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "直",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "通",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "弟",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "店",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "点",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "電",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "刀",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "冬",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "当",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "東",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "答",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "頭",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "同",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "道",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "読",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "内",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "南",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "肉",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "馬",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "売",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "買",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "麦",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "半",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "番",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "父",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "風",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "分",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "聞",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "米",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "歩",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "母",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "方",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "北",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "毎",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "妹",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "万",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "明",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "鳴",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "毛",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "門",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "夜",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "野",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "友",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "用",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "曜",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "来",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "里",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "理",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "話",
+            "aliases": [],
+            "tags": [
+                "2"
+            ]
+        },
+        {
+            "name": "悪",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "安",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "暗",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "医",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "委",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "意",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "育",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "員",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "院",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "飲",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "運",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "泳",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "駅",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "央",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "横",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "屋",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "温",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "化",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "荷",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "界",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "開",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "階",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "寒",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "感",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "漢",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "館",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "岸",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "起",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "期",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "客",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "究",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "急",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "級",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "宮",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "球",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "去",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "橋",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "業",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "曲",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "局",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "銀",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "区",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "苦",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "具",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "君",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "係",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "軽",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "血",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "決",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "研",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "県",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "庫",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "湖",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "向",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "幸",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "港",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "号",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "根",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "祭",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "皿",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "仕",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "死",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "使",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "始",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "指",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "歯",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "詩",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "次",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "事",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "持",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "式",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "実",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "写",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "者",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "主",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "守",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "取",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "酒",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "受",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "州",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "拾",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "終",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "習",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "集",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "住",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "重",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "宿",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "所",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "暑",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "助",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "昭",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "消",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "商",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "章",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "勝",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "乗",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "植",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "申",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "身",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "神",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "真",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "深",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "進",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "世",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "整",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "昔",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "全",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "相",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "送",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "想",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "息",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "速",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "族",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "他",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "打",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "対",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "待",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "代",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "第",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "題",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "炭",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "短",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "談",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "着",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "注",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "柱",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "丁",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "帳",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "調",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "追",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "定",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "庭",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "笛",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "鉄",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "転",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "都",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "度",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "投",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "豆",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "島",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "湯",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "登",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "等",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "動",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "童",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "農",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "波",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "配",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "倍",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "箱",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "畑",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "発",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "反",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "坂",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "板",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "皮",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "悲",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "美",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "鼻",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "筆",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "氷",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "表",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "秒",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "病",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "品",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "負",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "部",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "服",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "福",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "物",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "平",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "返",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "勉",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "放",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "味",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "命",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "面",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "問",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "役",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "薬",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "由",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "油",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "有",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "遊",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "予",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "羊",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "洋",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "葉",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "陽",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "様",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "落",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "流",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "旅",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "両",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "緑",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "礼",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "列",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "練",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "路",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "和",
+            "aliases": [],
+            "tags": [
+                "3"
+            ]
+        },
+        {
+            "name": "愛",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "案",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "以",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "衣",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "位",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "茨",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "印",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "英",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "栄",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "媛",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "塩",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "岡",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "億",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "加",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "果",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "貨",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "課",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "芽",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "賀",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "改",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "械",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "害",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "街",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "各",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "覚",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "潟",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "完",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "官",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "管",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "関",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "観",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "願",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "岐",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "希",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "季",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "旗",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "器",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "機",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "議",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "求",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "泣",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "給",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "挙",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "漁",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "共",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "協",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "鏡",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "競",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "極",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "熊",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "訓",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "軍",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "郡",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "群",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "径",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "景",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "芸",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "欠",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "結",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "建",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "健",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "験",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "固",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "功",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "好",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "香",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "候",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "康",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "佐",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "差",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "菜",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "最",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "埼",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "材",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "崎",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "昨",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "札",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "刷",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "察",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "参",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "産",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "散",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "残",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "氏",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "司",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "試",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "児",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "治",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "滋",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "辞",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "鹿",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "失",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "借",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "種",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "周",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "祝",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "順",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "初",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "松",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "笑",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "唱",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "焼",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "照",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "城",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "縄",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "臣",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "信",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "井",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "成",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "省",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "清",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "静",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "席",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "積",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "折",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "節",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "説",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "浅",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "戦",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "選",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "然",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "争",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "倉",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "巣",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "束",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "側",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "続",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "卒",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "孫",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "帯",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "隊",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "達",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "単",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "置",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "仲",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "沖",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "兆",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "低",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "底",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "的",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "典",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "伝",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "徒",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "努",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "灯",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "働",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "特",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "徳",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "栃",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "奈",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "梨",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "熱",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "念",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "敗",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "梅",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "博",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "阪",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "飯",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "飛",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "必",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "票",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "標",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "不",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "夫",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "付",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "府",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "阜",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "富",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "副",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "兵",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "別",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "辺",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "変",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "便",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "包",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "法",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "望",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "牧",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "末",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "満",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "未",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "民",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "無",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "約",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "勇",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "要",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "養",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "浴",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "利",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "陸",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "良",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "料",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "量",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "輪",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "類",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "令",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "冷",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "例",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "連",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "老",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "労",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "録",
+            "aliases": [],
+            "tags": [
+                "4"
+            ]
+        },
+        {
+            "name": "圧",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "囲",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "移",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "因",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "永",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "営",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "衛",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "易",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "益",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "液",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "演",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "応",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "往",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "桜",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "可",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "仮",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "価",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "河",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "過",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "快",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "解",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "格",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "確",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "額",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "刊",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "幹",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "慣",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "眼",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "紀",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "基",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "寄",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "規",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "喜",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "技",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "義",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "逆",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "久",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "旧",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "救",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "居",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "許",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "境",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "均",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "禁",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "句",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "型",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "経",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "潔",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "件",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "険",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "検",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "限",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "現",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "減",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "故",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "個",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "護",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "効",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "厚",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "耕",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "航",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "鉱",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "構",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "興",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "講",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "告",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "混",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "査",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "再",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "災",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "妻",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "採",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "際",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "在",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "財",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "罪",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "殺",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "雑",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "酸",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "賛",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "士",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "支",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "史",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "志",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "枝",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "師",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "資",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "飼",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "示",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "似",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "識",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "質",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "舎",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "謝",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "授",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "修",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "述",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "術",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "準",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "序",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "招",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "証",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "象",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "賞",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "条",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "状",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "常",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "情",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "織",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "職",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "制",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "性",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "政",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "勢",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "精",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "製",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "税",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "責",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "績",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "接",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "設",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "絶",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "祖",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "素",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "総",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "造",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "像",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "増",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "則",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "測",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "属",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "率",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "損",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "貸",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "態",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "団",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "断",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "築",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "貯",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "張",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "停",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "提",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "程",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "適",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "統",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "堂",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "銅",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "導",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "得",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "毒",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "独",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "任",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "燃",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "能",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "破",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "犯",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "判",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "版",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "比",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "肥",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "非",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "費",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "備",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "評",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "貧",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "布",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "婦",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "武",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "復",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "複",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "仏",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "粉",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "編",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "弁",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "保",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "墓",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "報",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "豊",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "防",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "貿",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "暴",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "脈",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "務",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "夢",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "迷",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "綿",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "輸",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "余",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "容",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "略",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "留",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "領",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "歴",
+            "aliases": [],
+            "tags": [
+                "5"
+            ]
+        },
+        {
+            "name": "胃",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "異",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "遺",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "域",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "宇",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "映",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "延",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "沿",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "恩",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "我",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "灰",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "拡",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "革",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "閣",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "割",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "株",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "干",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "巻",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "看",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "簡",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "危",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "机",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "揮",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "貴",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "疑",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "吸",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "供",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "胸",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "郷",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "勤",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "筋",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "系",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "敬",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "警",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "劇",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "激",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "穴",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "券",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "絹",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "権",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "憲",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "源",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "厳",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "己",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "呼",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "誤",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "后",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "孝",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "皇",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "紅",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "降",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "鋼",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "刻",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "穀",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "骨",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "困",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "砂",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "座",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "済",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "裁",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "策",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "冊",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "蚕",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "至",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "私",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "姿",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "視",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "詞",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "誌",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "磁",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "射",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "捨",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "尺",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "若",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "樹",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "収",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "宗",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "就",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "衆",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "従",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "縦",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "縮",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "熟",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "純",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "処",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "署",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "諸",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "除",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "承",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "将",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "傷",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "障",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "蒸",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "針",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "仁",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "垂",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "推",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "寸",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "盛",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "聖",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "誠",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "舌",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "宣",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "専",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "泉",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "洗",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "染",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "銭",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "善",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "奏",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "窓",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "創",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "装",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "層",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "操",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "蔵",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "臓",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "存",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "尊",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "退",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "宅",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "担",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "探",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "誕",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "段",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "暖",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "値",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "宙",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "忠",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "著",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "庁",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "頂",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "腸",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "潮",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "賃",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "痛",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "敵",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "展",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "討",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "党",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "糖",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "届",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "難",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "乳",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "認",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "納",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "脳",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "派",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "拝",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "背",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "肺",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "俳",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "班",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "晩",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "否",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "批",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "秘",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "俵",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "腹",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "奮",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "並",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "陛",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "閉",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "片",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "補",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "暮",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "宝",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "訪",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "亡",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "忘",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "棒",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "枚",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "幕",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "密",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "盟",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "模",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "訳",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "郵",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "優",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "預",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "幼",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "欲",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "翌",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "乱",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "卵",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "覧",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "裏",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "律",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "臨",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "朗",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        },
+        {
+            "name": "論",
+            "aliases": [],
+            "tags": [
+                "6"
+            ]
+        }
+    ]
+}
