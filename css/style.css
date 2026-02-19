@@ -1,30 +1,48 @@
+/* =========================
+   カラートークン
+   ========================= */
 :root {
-  --main: #2563eb;
-  /* 青 */
-  --main-light: #dbeafe;
-  /* 薄青 */
-  --ok: #16a34a;
-  /* 正解 */
-  --ng: #dc2626;
-  /* 不正解 */
-  --text: #1f2937;
-  --bg: #e5edf5;
+  --main: #4338ca;
+  /* インディゴ */
+  --main-dark: #312e81;
+  /* 深インディゴ（ヘッダ等） */
+  --main-mid: #6366f1;
+  /* 明るめインディゴ（アクセント） */
+  --main-light: #eef2ff;
+  /* 薄インディゴ（背景ハイライト） */
+  --ok: #059669;
+  /* エメラルド */
+  --ok-light: #d1fae5;
+  --ng: #e11d48;
+  /* ローズ */
+  --ng-light: #ffe4e6;
+  --text: #1e1b4b;
+  /* インディゴ寄りネイビー */
+  --text-muted: #6b7280;
+  --bg: #f4f6f9;
+  /* ウォームグレー */
+  --surface: #ffffff;
+  --border: #e2e8f0;
+  --shadow: 0 1px 4px rgba(67, 56, 202, 0.08);
+  --radius: 10px;
 }
 
+/* =========================
+   ベース
+   ========================= */
 html {
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
 }
 
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
   background: var(--bg);
   color: var(--text);
   max-width: 720px;
   margin: 0 auto;
   padding: 20px;
   font-size: 16px;
-  /* 基本サイズ（PC） */
   line-height: 1.6;
 }
 
@@ -38,81 +56,110 @@ a:hover {
   text-decoration: underline;
 }
 
-header {
-  margin-bottom: 20px;
-}
-
 h1 {
   margin: 10px 0 20px;
   font-size: 1.6rem;
+  color: var(--text);
 }
 
+/* =========================
+   共通ヘッダ
+   ========================= */
+.common-header {
+  background: linear-gradient(135deg, var(--main-dark) 0%, var(--main-mid) 100%);
+  color: #fff;
+  padding: 14px 20px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 20px;
+  border-radius: var(--radius);
+  letter-spacing: 0.05em;
+  box-shadow: 0 2px 8px rgba(49, 46, 129, 0.25);
+  transition: opacity 0.15s;
+}
+
+.common-header:hover {
+  opacity: 0.92;
+}
+
+/* =========================
+   入力エリア
+   ========================= */
 .input-area {
   margin-bottom: 20px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  box-shadow: var(--shadow);
 }
 
 input {
-  padding: 12px;
+  padding: 12px 14px;
   font-size: 1rem;
   width: 100%;
   box-sizing: border-box;
-  border: 2px solid var(--main-light);
+  border: 2px solid var(--border);
   border-radius: 8px;
+  outline: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  background: #fff;
+  color: var(--text);
 }
 
+input:focus {
+  border-color: var(--main-mid);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+}
+
+input:disabled {
+  background: #f1f5f9;
+  color: var(--text-muted);
+  cursor: not-allowed;
+}
+
+/* =========================
+   ボタン共通
+   ========================= */
 button {
   padding: 12px 16px;
   font-size: 1rem;
   border: none;
   border-radius: 8px;
   cursor: pointer;
-}
-
-button.primary {
-  background: var(--main);
-  color: white;
-}
-
-button.secondary {
-  background: #e5e7eb;
+  font-weight: 600;
+  transition: opacity 0.15s, transform 0.1s;
 }
 
 button:hover {
-  opacity: 0.9;
+  opacity: 0.88;
 }
 
-.status {
-  margin-top: 12px;
-  font-weight: bold;
-  font-size: 1rem;
+button:active {
+  transform: scale(0.97);
 }
 
-.status.ok {
-  color: var(--ok);
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  transform: none;
 }
 
-.status.ng {
-  color: var(--ng);
+button.primary {
+  background: linear-gradient(135deg, var(--main) 0%, var(--main-mid) 100%);
+  color: white;
+  box-shadow: 0 2px 6px rgba(67, 56, 202, 0.3);
 }
 
-#count {
-  margin-top: 10px;
-}
-
-ul {
-  padding-left: 20px;
-}
-
-.answer-ok {
-  color: var(--text);
-}
-
-.answer-ng {
-  color: var(--ng);
+button.secondary {
+  background: #e8eaf6;
+  color: var(--main);
 }
 
 .actions {
-  margin-top: 10px;
+  margin-top: 12px;
   display: flex;
   gap: 10px;
 }
@@ -122,67 +169,181 @@ ul {
   font-size: 1.05rem;
 }
 
-input:disabled {
-  background: #e5e7eb;
-  cursor: not-allowed;
+/* =========================
+   ステータス表示
+   ========================= */
+.status {
+  margin-top: 12px;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 8px 12px;
+  border-radius: 6px;
+  min-height: 38px;
 }
 
-button:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
+.status.ok {
+  color: var(--ok);
+  background: var(--ok-light);
 }
 
-/* 解答済みリスト */
+.status.ng {
+  color: var(--ng);
+  background: var(--ng-light);
+}
+
+#count {
+  margin-top: 10px;
+  font-weight: 600;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+/* =========================
+   解答済みリスト
+   ========================= */
+ul {
+  padding-left: 20px;
+}
+
 #answeredList {
   list-style: none;
   padding-left: 0;
   margin: 0;
 }
 
-#answeredList li.recent {
-  background: #e3f2fd;
-  border-left: 4px solid #2196f3;
-  font-weight: bold;
+#answeredSection {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px 16px;
+  box-shadow: var(--shadow);
+  margin-top: 16px;
 }
 
+#answeredList li {
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+#answeredList li.recent {
+  background: var(--main-light);
+  border-left: 4px solid var(--main-mid);
+  font-weight: bold;
+  color: var(--main);
+}
+
+.answer-ok {
+  color: var(--text);
+}
+
+.answer-ng {
+  color: var(--ng);
+  text-decoration: line-through;
+  opacity: 0.7;
+}
 
 /* =========================
-リザルト表示
-========================= */
+   全解答リスト
+   ========================= */
+#allAnswersTitle {
+  margin-top: 24px;
+  color: var(--text);
+}
+
+#allAnswers {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px 16px 12px 36px;
+  box-shadow: var(--shadow);
+}
+
+/* =========================
+   リザルト表示
+   ========================= */
 .result {
   margin-top: 30px;
-  padding: 20px;
-  border-radius: 10px;
-  background: var(--main-light);
+  padding: 24px 20px;
+  border-radius: var(--radius);
+  background: linear-gradient(135deg, var(--main-light) 0%, #e0e7ff 100%);
+  border: 1px solid #c7d2fe;
   text-align: center;
+  box-shadow: var(--shadow);
 }
 
 .result h2 {
   margin-top: 0;
+  font-size: 1.5rem;
+  color: var(--main-dark);
+}
+
+.result p {
+  color: var(--text-muted);
+  font-size: 1rem;
+  margin-bottom: 4px;
 }
 
 .result-link {
   display: inline-block;
-  margin-top: 15px;
-  padding: 10px 16px;
-  background: var(--main);
+  margin-top: 16px;
+  padding: 10px 20px;
+  background: linear-gradient(135deg, var(--main) 0%, var(--main-mid) 100%);
   color: white;
-  border-radius: 6px;
+  border-radius: 8px;
+  font-weight: bold;
+  box-shadow: 0 2px 6px rgba(67, 56, 202, 0.25);
+  transition: opacity 0.15s;
+}
+
+.result-link:hover {
+  opacity: 0.88;
+  text-decoration: none;
 }
 
 .retryButton {
   display: inline-block;
-  margin-top: 15px;
-  padding: 10px 16px;
-  background: var(--main-light);
-  color: var(--main);
-  border-radius: 6px;
+  margin-top: 16px;
+  margin-left: 10px;
+  padding: 10px 20px;
+  background: linear-gradient(135deg, #f59e0b 0%, #ef4444 100%);
+  color: white;
+  border-radius: 8px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(239, 68, 68, 0.25);
+  transition: opacity 0.15s, transform 0.1s;
 }
 
+.retryButton:hover {
+  opacity: 0.88;
+}
 
 /* =========================
-モバイル最適化
-========================= */
+   続きから再開ボタン
+   ========================= */
+.resumeButton {
+  display: inline-block;
+  margin-top: 16px;
+  margin-right: 10px;
+  padding: 10px 20px;
+  background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+  color: white;
+  border-radius: 8px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(5, 150, 105, 0.25);
+  transition: opacity 0.15s, transform 0.1s;
+}
+
+.resumeButton:hover {
+  opacity: 0.88;
+}
+
+/* =========================
+   モバイル最適化
+   ========================= */
 @media (max-width: 640px) {
   html {
     font-size: 18px;
@@ -190,8 +351,7 @@ button:disabled {
 
   body {
     font-size: 20px;
-    /* 全体の文字を大きく */
-    padding: 16px;
+    padding: 12px;
   }
 
   h1 {
@@ -212,56 +372,44 @@ button:disabled {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 6px 12px;
-    border: 1px solid #c0c0c0;
   }
-}
-
-/* =========================
-   共通ヘッダ
-   ========================= */
-.common-header {
-  background-color: var(--main);
-  color: #fff;
-  padding: 10px 20px;
-  text-align: center;
-  font-size: 1.2rem;
-  font-weight: bold;
-  cursor: pointer;
-  margin-bottom: 20px;
-}
-
-.common-header:hover {
-  opacity: 0.9;
 }
 
 /* =========================
    カテゴリアコーディオン
    ========================= */
 details {
-  margin-bottom: 15px;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  background: #fff;
+  margin-bottom: 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
   overflow: hidden;
+  box-shadow: var(--shadow);
 }
 
 summary {
-  padding: 12px 16px;
-  background-color: var(--main-light);
+  padding: 13px 16px;
+  background: linear-gradient(90deg, var(--main-light) 0%, #e0e7ff 100%);
   font-weight: bold;
   cursor: pointer;
   list-style: none;
-  /* デフォルトの矢印を消す（モダンブラウザ） */
   display: flex;
   justify-content: space-between;
   align-items: center;
+  color: var(--main-dark);
+  font-size: 1rem;
+  transition: background 0.15s;
 }
 
-/* 独自の矢印アイコン（あってもなくてもよいが、分かりやすさのため） */
+summary:hover {
+  background: linear-gradient(90deg, #dde5ff 0%, #c7d2fe 100%);
+}
+
 summary::after {
-  content: "+";
-  font-size: 1.2rem;
+  content: "＋";
+  font-size: 1.1rem;
   transition: transform 0.2s;
+  color: var(--main-mid);
 }
 
 details[open] summary::after {
@@ -270,7 +418,7 @@ details[open] summary::after {
 
 details ul {
   margin: 0;
-  padding: 10px 20px;
+  padding: 10px 20px 14px;
   list-style: none;
 }
 
@@ -282,12 +430,109 @@ details li:last-child {
   margin-bottom: 0;
 }
 
+details li a {
+  color: var(--main);
+  font-weight: 600;
+  transition: color 0.12s;
+}
+
+details li a:hover {
+  color: var(--main-mid);
+}
+
 /* =========================
-   リトライボタン
+   もっと見るボタン
+   ========================= */
+.toggle-more {
+  display: block;
+  margin: 2px 20px 12px;
+  padding: 5px 14px;
+  font-size: 0.83rem;
+  font-weight: 600;
+  background: none;
+  color: var(--main-mid);
+  border: 1.5px solid var(--main-mid);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.toggle-more:hover {
+  background: var(--main-light);
+  color: var(--main);
+  border-color: var(--main);
+}
+
+/* =========================
+   最近の更新ボックス
+   ========================= */
+.updates-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 13px 16px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow);
+}
+
+.updates-title {
+  margin: 0 0 8px;
+  font-size: 0.95rem;
+  font-weight: bold;
+  color: var(--main);
+}
+
+.updates-list {
+  max-height: 120px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.update-item {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  font-size: 0.88rem;
+}
+
+.update-badge {
+  font-size: 0.72rem;
+  font-weight: bold;
+  padding: 2px 7px;
+  border-radius: 999px;
+  white-space: nowrap;
+  color: #fff;
+}
+
+.update-badge--theme {
+  background: #7c3aed;
+}
+
+.update-badge--feature {
+  background: var(--main);
+}
+
+.update-badge--fix {
+  background: var(--ok);
+}
+
+.update-date {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.update-text {
+  color: var(--text);
+}
+
+/* =========================
+   リトライボタン（旧 button.retry）
    ========================= */
 button.retry {
-  background-color: #f59e0b;
-  /* アンバー/オレンジ系 */
+  background: linear-gradient(135deg, #f59e0b, #ef4444);
   color: white;
   margin-left: 10px;
 }

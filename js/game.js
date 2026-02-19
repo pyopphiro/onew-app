@@ -6,6 +6,7 @@ const themeDescription = document.getElementById("themeDescription");
 const answerInput = document.getElementById("answerInput");
 const judgeButton = document.getElementById("judgeButton");
 const giveUpButton = document.getElementById("giveUpButton");
+const resumeButton = document.getElementById("resumeButton");
 const status = document.getElementById("status");
 const count = document.getElementById("count");
 const answeredList = document.getElementById("answeredList");
@@ -217,6 +218,24 @@ giveUpButton.addEventListener("click", () => {
   showResult("giveup");
 });
 
+// 続きから再開
+resumeButton.addEventListener("click", () => {
+  isGameOver = false;
+
+  answerInput.disabled = false;
+  judgeButton.disabled = false;
+  answerInput.focus();
+
+  status.textContent = "再開しました。続けて解答してください。";
+  status.className = "status ok";
+
+  // 全解答・リザルトを隠す
+  allAnswersTitle.style.display = "none";
+  allAnswers.style.display = "none";
+  result.style.display = "none";
+  document.getElementById("answeredSection").style.display = "";
+});
+
 function showResult(type) {
   // 入力停止
   isGameOver = true;
@@ -231,11 +250,13 @@ function showResult(type) {
     resultTitle.textContent = "🎉 全問正解！";
     resultSummary.textContent =
       `${correctAnswers.length} 問すべて正解しました！`;
+    resumeButton.style.display = "none";
   }
 
   if (type === "giveup") {
     resultTitle.textContent = "ギブアップ";
     resultSummary.textContent =
       `${answeredSet.size} / ${correctAnswers.length} 問 正解`;
+    resumeButton.style.display = "inline-block";
   }
 }
