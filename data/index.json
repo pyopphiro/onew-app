@@ -461,6 +461,12 @@
             "base": "m1-champions"
         },
         {
+            "id": "koc-champions",
+            "title": "キングオブコント歴代優勝者",
+            "category": "entertainment",
+            "base": "koc-champions"
+        },
+        {
             "id": "r1-champions",
             "title": "R-1グランプリ歴代優勝者",
             "category": "entertainment",
