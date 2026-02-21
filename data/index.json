@@ -431,6 +431,12 @@
             "description": "日本に存在する一級水系の名称"
         },
         {
+            "id": "highest-peak-world",
+            "title": "8,000m峰",
+            "category": "geo",
+            "base": "highest-peak-world"
+        },
+        {
             "id": "university-jp",
             "title": "日本の大学",
             "category": "geo",
@@ -483,6 +489,12 @@
             "title": "国民栄誉賞受賞者",
             "category": "entertainment",
             "base": "peoples-honor-award-jp"
+        },
+        {
+            "id": "kabuki-18-ban",
+            "title": "歌舞伎十八番",
+            "category": "entertainment",
+            "base": "kabuki-18-ban"
         },
         {
             "id": "gengou",
@@ -597,6 +609,18 @@
                     "6"
                 ]
             }
+        },
+        {
+            "id": "36-kasen",
+            "title": "三十六歌仙",
+            "category": "literature",
+            "base": "36-kasen"
+        },
+        {
+            "id": "atsumori-residents",
+            "title": "『あつまれ どうぶつの森』住民",
+            "category": "anime-game",
+            "base": "atsumori-residents"
         },
         {
             "id": "pokemon",
