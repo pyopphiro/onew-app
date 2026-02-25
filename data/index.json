@@ -381,6 +381,30 @@
             "description": "ワシントンD.C.は除くアメリカ合衆国の50州"
         },
         {
+            "id": "china-division",
+            "title": "中国の行政区分",
+            "category": "geo",
+            "base": "china-division",
+            "description": "香港、マカオ、台湾は除く"
+        },
+        {
+            "id": "italy-regione",
+            "title": "イタリアの州",
+            "category": "geo",
+            "base": "italy-regione"
+        },
+        {
+            "id": "china-province",
+            "title": "中国の省",
+            "category": "geo",
+            "base": "china-division",
+            "filter": {
+                "tags": [
+                    "省"
+                ]
+            }
+        },
+        {
             "id": "yamanote-line",
             "title": "山手線の駅",
             "category": "geo",
@@ -521,6 +545,12 @@
             "base": "president-usa"
         },
         {
+            "id": "kamakura-shikken",
+            "title": "鎌倉幕府執権",
+            "category": "history",
+            "base": "kamakura-shikken"
+        },
+        {
             "id": "hyakunin-isshu-kajin",
             "title": "小倉百人一首の歌人",
             "category": "literature",
@@ -609,6 +639,12 @@
                     "6"
                 ]
             }
+        },
+        {
+            "id": "greek-alphabet",
+            "title": "現代ギリシア文字",
+            "category": "literature",
+            "base": "greek-alphabet"
         },
         {
             "id": "36-kasen",
