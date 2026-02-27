@@ -22,6 +22,7 @@ const resultSummary = document.getElementById("resultSummary");
 let correctAnswers = [];
 let answeredSet = new Set();
 let lastAnswered = null;
+let wrongCount = 0;
 
 let isGameOver = false;
 
@@ -103,7 +104,7 @@ function resolveAnswers(input) {
 
 function updateCount() {
   count.textContent =
-    `正解数: ${answeredSet.size} / ${correctAnswers.length}`;
+    `正解数: ${answeredSet.size} / ${correctAnswers.length}　誤答数: ${wrongCount}`;
 }
 
 function renderAnsweredList() {
@@ -132,9 +133,11 @@ function judge() {
   const resolvedList = resolveAnswers(input);
 
   if (resolvedList.length === 0) {
+    wrongCount++;
     status.textContent = `不正解… : ${input}`;
     status.className = "status ng";
     answerInput.value = "";
+    updateCount();
     return;
   }
 
@@ -249,14 +252,14 @@ function showResult(type) {
   if (type === "clear") {
     resultTitle.textContent = "🎉 全問正解！";
     resultSummary.textContent =
-      `${correctAnswers.length} 問すべて正解しました！`;
+      `${correctAnswers.length} 問すべて正解！（誤答: ${wrongCount} 回）`;
     resumeButton.style.display = "none";
   }
 
   if (type === "giveup") {
     resultTitle.textContent = "ギブアップ";
     resultSummary.textContent =
-      `${answeredSet.size} / ${correctAnswers.length} 問 正解`;
+      `${answeredSet.size} / ${correctAnswers.length} 問 正解（誤答: ${wrongCount} 回）`;
     resumeButton.style.display = "inline-block";
   }
 }
