@@ -1,0 +1,357 @@
+{
+    "id": "shogun",
+    "answers": [
+        {
+            "name": "源頼朝 (鎌倉幕府初代)",
+            "aliases": [
+                "源頼朝"
+            ],
+            "tags": [
+                "kamakura"
+            ]
+        },
+        {
+            "name": "源頼家 (鎌倉幕府2代)",
+            "aliases": [
+                "源頼家"
+            ],
+            "tags": [
+                "kamakura"
+            ]
+        },
+        {
+            "name": "源実朝 (鎌倉幕府3代)",
+            "aliases": [
+                "源実朝"
+            ],
+            "tags": [
+                "kamakura"
+            ]
+        },
+        {
+            "name": "藤原頼経 (鎌倉幕府4代)",
+            "aliases": [
+                "藤原頼経"
+            ],
+            "tags": [
+                "kamakura"
+            ]
+        },
+        {
+            "name": "藤原頼嗣 (鎌倉幕府5代)",
+            "aliases": [
+                "藤原頼嗣"
+            ],
+            "tags": [
+                "kamakura"
+            ]
+        },
+        {
+            "name": "宗尊親王 (鎌倉幕府6代)",
+            "aliases": [
+                "宗尊親王"
+            ],
+            "tags": [
+                "kamakura"
+            ]
+        },
+        {
+            "name": "惟康親王 (鎌倉幕府7代)",
+            "aliases": [
+                "惟康親王"
+            ],
+            "tags": [
+                "kamakura"
+            ]
+        },
+        {
+            "name": "久明親王 (鎌倉幕府8代)",
+            "aliases": [
+                "久明親王"
+            ],
+            "tags": [
+                "kamakura"
+            ]
+        },
+        {
+            "name": "守邦親王 (鎌倉幕府9代)",
+            "aliases": [
+                "守邦親王"
+            ],
+            "tags": [
+                "kamakura"
+            ]
+        },
+        {
+            "name": "足利尊氏 (室町幕府初代)",
+            "aliases": [
+                "足利尊氏"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義詮 (室町幕府2代)",
+            "aliases": [
+                "足利義詮"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義満 (室町幕府3代)",
+            "aliases": [
+                "足利義満"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義持 (室町幕府4代)",
+            "aliases": [
+                "足利義持"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義量 (室町幕府5代)",
+            "aliases": [
+                "足利義量"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義教 (室町幕府6代)",
+            "aliases": [
+                "足利義教"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義勝 (室町幕府7代)",
+            "aliases": [
+                "足利義勝"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義政 (室町幕府8代)",
+            "aliases": [
+                "足利義政"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義尚 (室町幕府9代)",
+            "aliases": [
+                "足利義尚"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義稙 (室町幕府10代)",
+            "aliases": [
+                "足利義稙",
+                "足利義材"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義澄 (室町幕府11代)",
+            "aliases": [
+                "足利義澄"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義晴 (室町幕府12代)",
+            "aliases": [
+                "足利義晴"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義輝 (室町幕府13代)",
+            "aliases": [
+                "足利義輝"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義栄 (室町幕府14代)",
+            "aliases": [
+                "足利義栄"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "足利義昭 (室町幕府15代)",
+            "aliases": [
+                "足利義昭"
+            ],
+            "tags": [
+                "muromachi"
+            ]
+        },
+        {
+            "name": "徳川家康 (江戸幕府初代)",
+            "aliases": [
+                "徳川家康"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川秀忠 (江戸幕府2代)",
+            "aliases": [
+                "徳川秀忠"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川家光 (江戸幕府3代)",
+            "aliases": [
+                "徳川家光"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川家綱 (江戸幕府4代)",
+            "aliases": [
+                "徳川家綱"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川綱吉 (江戸幕府5代)",
+            "aliases": [
+                "徳川綱吉"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川家宣 (江戸幕府6代)",
+            "aliases": [
+                "徳川家宣"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川家継 (江戸幕府7代)",
+            "aliases": [
+                "徳川家継"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川吉宗 (江戸幕府8代)",
+            "aliases": [
+                "徳川吉宗"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川家重 (江戸幕府9代)",
+            "aliases": [
+                "徳川家重"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川家治 (江戸幕府10代)",
+            "aliases": [
+                "徳川家治"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川家斉 (江戸幕府11代)",
+            "aliases": [
+                "徳川家斉"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川家慶 (江戸幕府12代)",
+            "aliases": [
+                "徳川家慶"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川家定 (江戸幕府13代)",
+            "aliases": [
+                "徳川家定"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川家茂 (江戸幕府14代)",
+            "aliases": [
+                "徳川家茂"
+            ],
+            "tags": [
+                "edo"
+            ]
+        },
+        {
+            "name": "徳川慶喜 (江戸幕府15代)",
+            "aliases": [
+                "徳川慶喜"
+            ],
+            "tags": [
+                "edo"
+            ]
+        }
+    ]
+}

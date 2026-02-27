@@ -1,0 +1,505 @@
+{
+  "id": "100-castle-jp",
+  "answers": [
+    {
+      "name": "根室半島チャシ跡群",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "五稜郭",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "松前城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "弘前城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "根城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "盛岡城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "多賀城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "仙台城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "久保田城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "山形城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "二本松城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "会津若松城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "白河小峰城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "水戸城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "足利氏館",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "箕輪城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "金山城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "鉢形城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "川越城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "佐倉城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "江戸城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "八王子城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "小田原城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "武田氏館",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "甲府城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "松代城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "上田城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "小諸城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "松本城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "高遠城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "新発田城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "春日山城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "高岡城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "七尾城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "金沢城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "丸岡城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "一乗谷城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "岩村城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "岐阜城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "山中城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "駿府城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "掛川城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "犬山城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "名古屋城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "岡崎城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "長篠城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "伊賀上野城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "松阪城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "小谷城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "彦根城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "安土城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "観音寺城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "二条城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "大阪城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "千早城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "竹田城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "篠山城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "明石城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "姫路城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "赤穂城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "高取城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "和歌山城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "鳥取城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "松江城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "月山富田城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "津和野城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "津山城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "備中松山城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "鬼ノ城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "岡山城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "福山城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "郡山城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "広島城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "岩国城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "萩城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "徳島城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "高松城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "丸亀城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "今治城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "湯築城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "松山城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "大洲城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "宇和島城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "高知城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "福岡城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "大野城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "名護屋城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "吉野ヶ里",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "佐賀城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "平戸城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "島原城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "熊本城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "人吉城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "大分府内城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "岡城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "飫肥城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "鹿児島城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "今帰仁城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "中城城",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "首里城",
+      "aliases": [],
+      "tags": []
+    }
+  ]
+}

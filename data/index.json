@@ -45,6 +45,12 @@
             "base": "100-famous-mts"
         },
         {
+            "id": "100-castle-jp",
+            "title": "日本100名城",
+            "category": "geo",
+            "base": "100-castle-jp"
+        },
+        {
             "id": "constellation",
             "title": "88星座",
             "category": "science",
@@ -67,6 +73,13 @@
                     "EU"
                 ]
             }
+        },
+        {
+            "id": "capital",
+            "title": "世界の国の首都",
+            "category": "geo",
+            "base": "capital",
+            "description": "「首都 (国名)」または「首都」のみで回答可能です。"
         },
         {
             "id": "element",
@@ -415,6 +428,13 @@
             "description": "「区」まで入力してください。"
         },
         {
+            "id": "ward-jp",
+            "title": "政令指定都市の行政区",
+            "category": "geo",
+            "base": "ward-jp",
+            "description": "「市名+区名」または「区名」のみで回答可能です。"
+        },
+        {
             "id": "usa-50states",
             "title": "アメリカ50州",
             "category": "geo",
@@ -584,6 +604,45 @@
             "title": "歴代アメリカ大統領",
             "category": "history",
             "base": "president-usa"
+        },
+        {
+            "id": "shogun",
+            "title": "征夷大将軍",
+            "category": "history",
+            "base": "shogun"
+        },
+        {
+            "id": "shogun-kamakura",
+            "title": "鎌倉幕府将軍",
+            "category": "history",
+            "base": "shogun",
+            "filter": {
+                "tags": [
+                    "kamakura"
+                ]
+            }
+        },
+        {
+            "id": "shogun-muromachi",
+            "title": "室町幕府将軍",
+            "category": "history",
+            "base": "shogun",
+            "filter": {
+                "tags": [
+                    "muromachi"
+                ]
+            }
+        },
+        {
+            "id": "shogun-edo",
+            "title": "江戸幕府将軍",
+            "category": "history",
+            "base": "shogun",
+            "filter": {
+                "tags": [
+                    "edo"
+                ]
+            }
         },
         {
             "id": "kamakura-shikken",
