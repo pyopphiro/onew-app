@@ -388,12 +388,6 @@
             "description": "香港、マカオ、台湾は除く"
         },
         {
-            "id": "italy-regione",
-            "title": "イタリアの州",
-            "category": "geo",
-            "base": "italy-regione"
-        },
-        {
             "id": "china-province",
             "title": "中国の省",
             "category": "geo",
@@ -403,6 +397,12 @@
                     "省"
                 ]
             }
+        },
+        {
+            "id": "italy-regione",
+            "title": "イタリアの州",
+            "category": "geo",
+            "base": "italy-regione"
         },
         {
             "id": "yamanote-line",
@@ -861,6 +861,18 @@
                     "フェアリー"
                 ]
             }
+        },
+        {
+            "id": "osaka-loop-line",
+            "title": "大阪環状線の駅",
+            "category": "geo",
+            "base": "osaka-loop-line"
+        },
+        {
+            "id": "bushu",
+            "title": "部首",
+            "category": "literature",
+            "base": "bushu"
         }
     ]
 }

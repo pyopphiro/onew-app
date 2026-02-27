@@ -1,0 +1,138 @@
+{
+    "id": "osaka-loop-line",
+    "answers": [
+        {
+            "name": "大阪駅",
+            "aliases": [
+                "大阪"
+            ],
+            "tags": []
+        },
+        {
+            "name": "福島駅",
+            "aliases": [
+                "福島"
+            ],
+            "tags": []
+        },
+        {
+            "name": "野田駅",
+            "aliases": [
+                "野田"
+            ],
+            "tags": []
+        },
+        {
+            "name": "西九条駅",
+            "aliases": [
+                "西九条"
+            ],
+            "tags": []
+        },
+        {
+            "name": "弁天町駅",
+            "aliases": [
+                "弁天町"
+            ],
+            "tags": []
+        },
+        {
+            "name": "大正駅",
+            "aliases": [
+                "大正"
+            ],
+            "tags": []
+        },
+        {
+            "name": "芦原橋駅",
+            "aliases": [
+                "芦原橋"
+            ],
+            "tags": []
+        },
+        {
+            "name": "今宮駅",
+            "aliases": [
+                "今宮"
+            ],
+            "tags": []
+        },
+        {
+            "name": "新今宮駅",
+            "aliases": [
+                "新今宮"
+            ],
+            "tags": []
+        },
+        {
+            "name": "天王寺駅",
+            "aliases": [
+                "天王寺"
+            ],
+            "tags": []
+        },
+        {
+            "name": "寺田町駅",
+            "aliases": [
+                "寺田町"
+            ],
+            "tags": []
+        },
+        {
+            "name": "桃谷駅",
+            "aliases": [
+                "桃谷"
+            ],
+            "tags": []
+        },
+        {
+            "name": "鶴橋駅",
+            "aliases": [
+                "鶴橋"
+            ],
+            "tags": []
+        },
+        {
+            "name": "玉造駅",
+            "aliases": [
+                "玉造"
+            ],
+            "tags": []
+        },
+        {
+            "name": "森ノ宮駅",
+            "aliases": [
+                "森ノ宮"
+            ],
+            "tags": []
+        },
+        {
+            "name": "大阪城公園駅",
+            "aliases": [
+                "大阪城公園"
+            ],
+            "tags": []
+        },
+        {
+            "name": "京橋駅",
+            "aliases": [
+                "京橋"
+            ],
+            "tags": []
+        },
+        {
+            "name": "桜ノ宮駅",
+            "aliases": [
+                "桜ノ宮"
+            ],
+            "tags": []
+        },
+        {
+            "name": "天満駅",
+            "aliases": [
+                "天満"
+            ],
+            "tags": []
+        }
+    ]
+}
