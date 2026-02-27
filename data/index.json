@@ -5,6 +5,10 @@
             "title": "地理"
         },
         {
+            "id": "transport",
+            "title": "交通"
+        },
+        {
             "id": "history",
             "title": "歴史"
         },
@@ -188,13 +192,13 @@
         {
             "id": "number-plate",
             "title": "日本のナンバープレート表示地域名",
-            "category": "geo",
+            "category": "transport",
             "base": "number-plate"
         },
         {
             "id": "fishing-ports",
             "title": "特定第三種漁港",
-            "category": "geo",
+            "category": "transport",
             "base": "fishing-ports"
         },
         {
@@ -267,6 +271,43 @@
                 ]
             },
             "description": "2リーグ制以降"
+        },
+        {
+            "id": "home-run-king",
+            "title": "プロ野球本塁打王",
+            "category": "sports",
+            "base": "home-run-king",
+            "description": "2リーグ制以降"
+        },
+        {
+            "id": "home-run-king-c",
+            "title": "プロ野球本塁打王 (セ・リーグ)",
+            "category": "sports",
+            "base": "home-run-king",
+            "filter": {
+                "tags": [
+                    "C"
+                ]
+            },
+            "description": "2リーグ制以降"
+        },
+        {
+            "id": "home-run-king-p",
+            "title": "プロ野球本塁打王 (パ・リーグ)",
+            "category": "sports",
+            "base": "home-run-king",
+            "filter": {
+                "tags": [
+                    "P"
+                ]
+            },
+            "description": "2リーグ制以降"
+        },
+        {
+            "id": "sawamura-prize",
+            "title": "沢村賞受賞者",
+            "category": "sports",
+            "base": "sawamura-prize"
         },
         {
             "id": "koshien-winner-schools-spring",
@@ -407,26 +448,26 @@
         {
             "id": "yamanote-line",
             "title": "山手線の駅",
-            "category": "geo",
+            "category": "transport",
             "base": "yamanote-line"
         },
         {
             "id": "osaka-metro-station",
             "title": "Osaka Metroの駅",
-            "category": "geo",
+            "category": "transport",
             "base": "osaka-metro-station",
             "description": "ニュートラムの駅も含む"
         },
         {
             "id": "nagoya-subway",
             "title": "名古屋市営地下鉄の駅",
-            "category": "geo",
+            "category": "transport",
             "base": "nagoya-subway"
         },
         {
             "id": "shinkansen-station",
             "title": "新幹線駅",
-            "category": "geo",
+            "category": "transport",
             "base": "shinkansen-station",
             "filter": {
                 "tags": [
@@ -444,7 +485,7 @@
         {
             "id": "shinkansen-station-include-mini",
             "title": "新幹線駅 [ミニ新幹線含む]",
-            "category": "geo",
+            "category": "transport",
             "base": "shinkansen-station"
         },
         {
@@ -865,7 +906,7 @@
         {
             "id": "osaka-loop-line",
             "title": "大阪環状線の駅",
-            "category": "geo",
+            "category": "transport",
             "base": "osaka-loop-line"
         },
         {
