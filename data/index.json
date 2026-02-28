@@ -360,6 +360,40 @@
             "base": "j-league-club"
         },
         {
+            "id": "g1-jp",
+            "title": "競馬のG1レース",
+            "category": "sports",
+            "base": "g1-jp"
+        },
+        {
+            "id": "racetrack-jp",
+            "title": "日本の競馬場",
+            "category": "sports",
+            "base": "racetrack-jp"
+        },
+        {
+            "id": "racetrack-jp-central",
+            "title": "中央競馬の競馬場",
+            "category": "sports",
+            "base": "racetrack-jp",
+            "filter": {
+                "tags": [
+                    "中央"
+                ]
+            }
+        },
+        {
+            "id": "racetrack-jp-local",
+            "title": "地方競馬の競馬場",
+            "category": "sports",
+            "base": "racetrack-jp",
+            "filter": {
+                "tags": [
+                    "地方"
+                ]
+            }
+        },
+        {
             "id": "mahjong-hand",
             "title": "麻雀の役",
             "category": "sports",
@@ -509,6 +543,18 @@
             "base": "shinkansen-station"
         },
         {
+            "id": "airport-jp",
+            "title": "日本の空港",
+            "category": "transport",
+            "base": "airport-jp"
+        },
+        {
+            "id": "jr-line",
+            "title": "JR路線",
+            "category": "transport",
+            "base": "jr-line"
+        },
+        {
             "id": "water-systems",
             "title": "一級水系",
             "category": "geo",
@@ -580,6 +626,12 @@
             "title": "歌舞伎十八番",
             "category": "entertainment",
             "base": "kabuki-18-ban"
+        },
+        {
+            "id": "record-awards",
+            "title": "日本レコード大賞受賞曲",
+            "category": "entertainment",
+            "base": "record-awards"
         },
         {
             "id": "gengou",
@@ -757,6 +809,12 @@
             "title": "『あつまれ どうぶつの森』住民",
             "category": "anime-game",
             "base": "atsumori-residents"
+        },
+        {
+            "id": "smash-brothers-fighter",
+            "title": "『大乱闘スマッシュブラザーズ SPECIAL』のファイター",
+            "category": "anime-game",
+            "base": "smash-brothers-fighter"
         },
         {
             "id": "pokemon",

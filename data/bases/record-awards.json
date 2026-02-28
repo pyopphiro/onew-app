@@ -1,0 +1,495 @@
+{
+  "id": "record-awards",
+  "answers": [
+    {
+      "name": "『黒い花びら』水原弘 (1959)",
+      "aliases": [
+        "黒い花びら"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『誰よりも君を愛す』松尾和子/和田弘とマヒナスターズ (1960)",
+      "aliases": [
+        "誰よりも君を愛す"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『君恋し』フランク永井 (1961)",
+      "aliases": [
+        "君恋し"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『いつでも夢を』橋幸夫/吉永小百合 (1962)",
+      "aliases": [
+        "いつでも夢を"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『こんにちは赤ちゃん』梓みちよ (1963)",
+      "aliases": [
+        "こんにちは赤ちゃん"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『愛と死をみつめて』青山和子 (1964)",
+      "aliases": [
+        "愛と死をみつめて"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『柔』美空ひばり (1965)",
+      "aliases": [
+        "柔"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『霧氷』橋幸夫 (1966)",
+      "aliases": [
+        "霧氷"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『ブルー・シャトウ』ジャッキー吉川とブルー・コメッツ (1967)",
+      "aliases": [
+        "ブルー・シャトウ"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『天使の誘惑』黛ジュン (1968)",
+      "aliases": [
+        "天使の誘惑"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『いいじゃないの幸せならば』佐良直美 (1969)",
+      "aliases": [
+        "いいじゃないの幸せならば"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『今日でお別れ』菅原洋一 (1970)",
+      "aliases": [
+        "今日でお別れ"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『また逢う日まで』尾崎紀世彦 (1971)",
+      "aliases": [
+        "また逢う日まで"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『喝采』ちあきなおみ (1972)",
+      "aliases": [
+        "喝采"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『夜空』五木ひろし (1973)",
+      "aliases": [
+        "夜空"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『襟裳岬』森進一 (1974)",
+      "aliases": [
+        "襟裳岬"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『シクラメンのかほり』布施明 (1975)",
+      "aliases": [
+        "シクラメンのかほり"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『北の宿から』都はるみ (1976)",
+      "aliases": [
+        "北の宿から"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『勝手にしやがれ』沢田研二 (1977)",
+      "aliases": [
+        "勝手にしやがれ"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『UFO』ピンク・レディー (1978)",
+      "aliases": [
+        "UFO"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『魅せられて』ジュディ・オング (1979)",
+      "aliases": [
+        "魅せられて"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『雨の慕情』八代亜紀 (1980)",
+      "aliases": [
+        "雨の慕情"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『ルビーの指環』寺尾聰 (1981)",
+      "aliases": [
+        "ルビーの指環"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『北酒場』細川たかし (1982)",
+      "aliases": [
+        "北酒場"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『矢切の渡し』細川たかし (1983)",
+      "aliases": [
+        "矢切の渡し"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『長良川艶歌』五木ひろし (1984)",
+      "aliases": [
+        "長良川艶歌"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『ミ・アモーレ (Meu amor é…)』中森明菜 (1985)",
+      "aliases": [
+        "ミ・アモーレ (Meu amor é…)"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『DESIRE』中森明菜 (1986)",
+      "aliases": [
+        "DESIRE"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『愚か者』近藤真彦 (1987)",
+      "aliases": [
+        "愚か者"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『パラダイス銀河』光GENJI (1988)",
+      "aliases": [
+        "パラダイス銀河"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『淋しい熱帯魚』Wink (1989)",
+      "aliases": [
+        "淋しい熱帯魚"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『恋唄綴り』堀内孝雄 (1990)",
+      "aliases": [
+        "恋唄綴り"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『おどるポンポコリン』B.B.クィーンズ (1990)",
+      "aliases": [
+        "おどるポンポコリン"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『北の大地』北島三郎 (1991)",
+      "aliases": [
+        "北の大地"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『愛は勝つ』KAN (1991)",
+      "aliases": [
+        "愛は勝つ"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『白い海峡』大月みやこ (1992)",
+      "aliases": [
+        "白い海峡"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『君がいるだけで』米米CLUB (1992)",
+      "aliases": [
+        "君がいるだけで"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『無言坂』香西かおり (1993)",
+      "aliases": [
+        "無言坂"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『innocent world』Mr.Children (1994)",
+      "aliases": [
+        "innocent world"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『Overnight Sensation〜時代はあなたに委ねてる〜』trf (1995)",
+      "aliases": [
+        "Overnight Sensation〜時代はあなたに委ねてる〜"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『Don't wanna cry』安室奈美恵 (1996)",
+      "aliases": [
+        "Don't wanna cry"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『CAN YOU CELEBRATE？』安室奈美恵 (1997)",
+      "aliases": [
+        "CAN YOU CELEBRATE？"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『wanna Be A Dreammaker』globe (1998)",
+      "aliases": [
+        "wanna Be A Dreammaker"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『Winter, again』GLAY (1999)",
+      "aliases": [
+        "Winter, again"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『TSUNAMI』サザンオールスターズ (2000)",
+      "aliases": [
+        "TSUNAMI"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『Dearest』浜崎あゆみ (2001)",
+      "aliases": [
+        "Dearest"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『Voyage』浜崎あゆみ (2002)",
+      "aliases": [
+        "Voyage"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『No way to say』浜崎あゆみ (2003)",
+      "aliases": [
+        "No way to say"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『Sign』Mr.Children (2004)",
+      "aliases": [
+        "Sign"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『Butterfly』倖田來未 (2005)",
+      "aliases": [
+        "Butterfly"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『一剣』氷川きよし (2006)",
+      "aliases": [
+        "一剣"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『蕾 (つぼみ)』コブクロ (2007)",
+      "aliases": [
+        "蕾 (つぼみ)"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『Ti Amo』EXILE (2008)",
+      "aliases": [
+        "Ti Amo"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『Someday』EXILE (2009)",
+      "aliases": [
+        "Someday"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『I Wish For You』EXILE (2010)",
+      "aliases": [
+        "I Wish For You"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『フライングゲット』AKB48 (2011)",
+      "aliases": [
+        "フライングゲット"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『真夏のSounds good !』AKB48 (2012)",
+      "aliases": [
+        "真夏のSounds good !"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『EXILEPRIDE〜こんな世界を愛するため〜』EXILE (2013)",
+      "aliases": [
+        "EXILEPRIDE〜こんな世界を愛するため〜"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『R.Y.U.S.E.I.』三代目 J Soul Brothers from EXILE TRIBE (2014)",
+      "aliases": [
+        "R.Y.U.S.E.I."
+      ],
+      "tags": []
+    },
+    {
+      "name": "『Unfair World』三代目 J Soul Brothers from EXILE TRIBE (2015)",
+      "aliases": [
+        "Unfair World"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『あなたの好きなところ』西野カナ (2016)",
+      "aliases": [
+        "あなたの好きなところ"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『インフルエンサー』乃木坂46 (2017)",
+      "aliases": [
+        "インフルエンサー"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『シンクロニシティ』乃木坂46 (2018)",
+      "aliases": [
+        "シンクロニシティ"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『パプリカ』Foorin (2019)",
+      "aliases": [
+        "パプリカ"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『炎』LiSA (2020)",
+      "aliases": [
+        "炎"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『CITRUS』Da-iCE (2021)",
+      "aliases": [
+        "CITRUS"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『Habit』SEKAI NO OWARI (2022)",
+      "aliases": [
+        "Habit"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『ケセラセラ』Mrs. GREEN APPLE (2023)",
+      "aliases": [
+        "ケセラセラ"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『ライラック』Mrs. GREEN APPLE (2024)",
+      "aliases": [
+        "ライラック"
+      ],
+      "tags": []
+    },
+    {
+      "name": "『ダーリン』Mrs. GREEN APPLE (2025)",
+      "aliases": [
+        "ダーリン"
+      ],
+      "tags": []
+    }
+  ]
+}

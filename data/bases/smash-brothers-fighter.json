@@ -1,0 +1,448 @@
+{
+  "id": "smash-brothers-fighter",
+  "answers": [
+    {
+      "name": "マリオ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ドンキーコング",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "リンク",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "サムス",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ダークサムス",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ヨッシー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "カービィ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "フォックス",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ピカチュウ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ルイージ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ネス",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "キャプテン・ファルコン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "プリン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ピーチ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "デイジー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "クッパ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "アイスクライマー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "シーク",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ゼルダ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ドクターマリオ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ピチュー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ファルコ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "マルス",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ルキナ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "こどもリンク",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ガノンドロフ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ミュウツー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ロイ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "クロム",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "Mr.ゲーム＆ウォッチ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "メタナイト",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ピット",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ブラックピット",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ゼロスーツサムス",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ワリオ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "スネーク",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "アイク",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ポケモントレーナー (ゼニガメ/フシギソウ/リザードン)",
+      "aliases": [
+        "ポケモントレーナー",
+        "ゼニガメ",
+        "フシギソウ",
+        "リザードン"
+      ],
+      "tags": []
+    },
+    {
+      "name": "ディディーコング",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "リュカ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ソニック",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "デデデ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ピクミン&オリマー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ルカリオ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ロボット",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "トゥーンリンク",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ウルフ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "むらびと",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ロックマン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "Wii Fit トレーナー",
+      "aliases": [
+        "Wii Fitトレーナー"
+      ],
+      "tags": []
+    },
+    {
+      "name": "ロゼッタ&チコ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "リトル・マック",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ゲッコウガ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "Miiファイター",
+      "aliases": [
+        "Mii"
+      ],
+      "tags": []
+    },
+    {
+      "name": "パルテナ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "パックマン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ルフレ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "シュルク",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "クッパ Jr.",
+      "aliases": [
+        "クッパJr.",
+        "クッパジュニア"
+      ],
+      "tags": []
+    },
+    {
+      "name": "ダックハント",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "リュウ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ケン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "クラウド",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "カムイ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ベヨネッタ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "インクリング",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "リドリー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "シモン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "リヒター",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "キングクルール",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "しずえ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ガオガエン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "パックンフラワー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ジョーカー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "勇者",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "バンジョー&カズーイ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "テリー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ベレト/ベレス",
+      "aliases": [
+        "ベレト",
+        "ベレス"
+      ],
+      "tags": []
+    },
+    {
+      "name": "ミェンミェン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "スティーブ/アレックス",
+      "aliases": [
+        "スティーブ",
+        "アレックス"
+      ],
+      "tags": []
+    },
+    {
+      "name": "セフィロス",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ホムラ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ヒカリ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "カズヤ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ソラ",
+      "aliases": [],
+      "tags": []
+    }
+  ]
+}

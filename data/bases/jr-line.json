@@ -1,0 +1,852 @@
+{
+  "id": "jr-line",
+  "answers": [
+    {
+      "name": "北海道新幹線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "函館本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "札沼線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "日高本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "海峡線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "石勝線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "釧網本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "千歳線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "根室本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "室蘭本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "富良野線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "石北本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "宗谷本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "留萌本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "飯山線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "相模線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "水郡線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "陸羽西線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "白新線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "東北本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "八戸線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "烏山線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "青梅線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "中央本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "磐越西線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "左沢線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "津軽線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "常磐線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "赤羽線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "成田線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "横浜線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "上越線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "水戸線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "総武本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "根岸線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "大湊線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "只見線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "越後線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "吾妻線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "北陸新幹線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "南武線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "横須賀線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "鶴見線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "東海道本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "仙山線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "小海線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "北上線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "陸羽東線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "川越線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "京葉線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "弥彦線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "大船渡線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "石巻線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "信越本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "両毛線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "花輪線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "山手線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "内房線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "釜石線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "山田線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "仙石線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "羽越本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "田沢湖線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "米坂線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "外房線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "奥羽本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "高崎線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "鹿島線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "男鹿線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "伊東線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "東北新幹線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "東金線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "大糸線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "五日市線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "気仙沼線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "八高線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "篠ノ井線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "武蔵野線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "磐越東線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "久留里線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "五能線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "上越新幹線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "日光線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "東海道新幹線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "身延線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "太多線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "飯田線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "高山本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "関西本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "名松線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "御殿場線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "武豊線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "参宮線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "紀勢本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "岩徳線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "福知山線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "氷見線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "片町線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "福塩線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "関西空港線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "小野田線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "芸備線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "山陽新幹線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "播但線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "可部線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "加古川線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "阪和線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "湖西線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "北陸本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "博多南線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "山陰本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "山陽本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "因美線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "城端線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "津山線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "本四備讃線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "美祢線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "桜井線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "奈良線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "越美北線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "大阪環状線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "山口線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "桜島線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "木次線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "小浜線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "おおさか東線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "姫新線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "呉線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "七尾線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "宇野線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "赤穂線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "吉備線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "JR東西線",
+      "aliases": [
+        "東西線"
+      ],
+      "tags": []
+    },
+    {
+      "name": "宇部線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "舞鶴線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "境線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "草津線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "伯備線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "和歌山線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "予讃線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "徳島線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "内子線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "予土線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "鳴門線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "牟岐線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "土讃線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "高徳線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "指宿枕崎線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "唐津線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "日南線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "佐世保線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "長崎本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "九州新幹線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "吉都線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "西九州新幹線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "宮崎空港線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "大村線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "久大本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "鹿児島本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "日田彦山線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "後藤寺線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "三角線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "豊肥本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "筑豊本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "筑肥線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "日豊本線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "香椎線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "篠栗線",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "肥薩線",
+      "aliases": [],
+      "tags": []
+    }
+  ]
+}
