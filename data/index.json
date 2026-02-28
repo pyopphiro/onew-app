@@ -203,6 +203,13 @@
             "base": "kanji-of-year"
         },
         {
+            "id": "family-name-jp",
+            "title": "日本の苗字（人口上位100苗字）",
+            "category": "social",
+            "base": "family-name-jp",
+            "description": "出典: 苗字由来net (<a href=\"https://www.myoji-yurai.net/\">https://www.myoji-yurai.net/</a>)"
+        },
+        {
             "id": "number-plate",
             "title": "日本のナンバープレート表示地域名",
             "category": "transport",
@@ -815,6 +822,12 @@
             "title": "『大乱闘スマッシュブラザーズ SPECIAL』のファイター",
             "category": "anime-game",
             "base": "smash-brothers-fighter"
+        },
+        {
+            "id": "conan-movie",
+            "title": "劇場版『名探偵コナン』タイトル",
+            "category": "anime-game",
+            "base": "conan-movie"
         },
         {
             "id": "pokemon",
