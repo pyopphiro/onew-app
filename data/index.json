@@ -228,6 +228,12 @@
             "description": "出典: 苗字由来net (<a href=\"https://www.myoji-yurai.net/\">https://www.myoji-yurai.net/</a>)"
         },
         {
+            "id": "nobel-prize-jp",
+            "title": "日本人ノーベル賞受賞者",
+            "category": "social",
+            "base": "nobel-prize-jp"
+        },
+        {
             "id": "number-plate",
             "title": "日本のナンバープレート表示地域名",
             "category": "transport",
