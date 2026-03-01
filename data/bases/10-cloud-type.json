@@ -1,0 +1,55 @@
+{
+  "id": "10-cloud-type",
+  "answers": [
+    {
+      "name": "巻雲",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "巻層雲",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "巻積雲",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "高層雲",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "高積雲",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "乱層雲",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "層雲",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "層積雲",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "積雲",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "積乱雲",
+      "aliases": [],
+      "tags": []
+    }
+  ]
+}

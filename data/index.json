@@ -75,6 +75,18 @@
             }
         },
         {
+            "id": "countries-g20",
+            "title": "G20参加国",
+            "category": "geo",
+            "base": "countries",
+            "filter": {
+                "tags": [
+                    "G20"
+                ]
+            },
+            "description": "欧州連合、アフリカ連合は除く"
+        },
+        {
             "id": "capital",
             "title": "世界の国の首都",
             "category": "geo",
@@ -120,6 +132,12 @@
             "title": "SI基本単位",
             "category": "science",
             "base": "si-base-unit"
+        },
+        {
+            "id": "10-cloud-type",
+            "title": "十種雲形",
+            "category": "science",
+            "base": "10-cloud-type"
         },
         {
             "id": "protein-amino-acid",
@@ -651,6 +669,12 @@
             "title": "歴代天皇",
             "category": "history",
             "base": "emperor-jp"
+        },
+        {
+            "id": "ryoseikoku",
+            "title": "令制国",
+            "category": "history",
+            "base": "ryoseikoku"
         },
         {
             "id": "prime-minister-jp",
