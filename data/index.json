@@ -500,6 +500,13 @@
             "description": "「市名+区名」または「区名」のみで回答可能です。"
         },
         {
+            "id": "county-jp",
+            "title": "日本の郡",
+            "category": "geo",
+            "base": "county-jp",
+            "description": "「都道府県名+郡名」または「郡名」のみで回答可能です。"
+        },
+        {
             "id": "usa-50states",
             "title": "アメリカ50州",
             "category": "geo",
@@ -1060,6 +1067,116 @@
             "filter": {
                 "tags": [
                     "フェアリー"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-kanto",
+            "title": "カントー地方のポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "カントー"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-johto",
+            "title": "ジョウト地方のポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "ジョウト"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-hoenn",
+            "title": "ホウエン地方のポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "ホウエン"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-sinnoh",
+            "title": "シンオウ地方のポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "シンオウ"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-unova",
+            "title": "イッシュ地方のポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "イッシュ"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-kalos",
+            "title": "カロス地方のポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "カロス"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-alola",
+            "title": "アローラ地方のポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "アローラ"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-galar",
+            "title": "ガラル地方のポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "ガラル"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-hisui",
+            "title": "ヒスイ地方のポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "ヒスイ"
+                ]
+            }
+        },
+        {
+            "id": "pokemon-paldea",
+            "title": "パルデア地方のポケモン",
+            "category": "anime-game",
+            "base": "pokemon",
+            "filter": {
+                "tags": [
+                    "パルデア"
                 ]
             }
         },
