@@ -587,10 +587,82 @@
             "base": "airport-jp"
         },
         {
+            "id": "railway-companies",
+            "title": "日本の鉄道事業者",
+            "category": "transport",
+            "base": "railway-companies"
+        },
+        {
             "id": "jr-line",
             "title": "JR路線",
             "category": "transport",
             "base": "jr-line"
+        },
+        {
+            "id": "tobu-st",
+            "title": "東武鉄道の駅",
+            "category": "transport",
+            "base": "tobu-st"
+        },
+        {
+            "id": "seibu-st",
+            "title": "西武鉄道の駅",
+            "category": "transport",
+            "base": "seibu-st"
+        },
+        {
+            "id": "tokyo-metro-st",
+            "title": "東京メトロの駅",
+            "category": "transport",
+            "base": "tokyo-metro-st"
+        },
+        {
+            "id": "tokyu-st",
+            "title": "東急電鉄の駅",
+            "category": "transport",
+            "base": "tokyu-st"
+        },
+        {
+            "id": "meitetsu-st",
+            "title": "名古屋鉄道の駅",
+            "category": "transport",
+            "base": "meitetsu-st"
+        },
+        {
+            "id": "kintetsu-st",
+            "title": "近畿日本鉄道の駅",
+            "category": "transport",
+            "base": "kintetsu-st"
+        },
+        {
+            "id": "hankyu-st",
+            "title": "阪急電鉄の駅",
+            "category": "transport",
+            "base": "hankyu-st"
+        },
+        {
+            "id": "hanshin-st",
+            "title": "阪神電気鉄道の駅",
+            "category": "transport",
+            "base": "hanshin-st"
+        },
+        {
+            "id": "keihan-st",
+            "title": "京阪電気鉄道の駅",
+            "category": "transport",
+            "base": "keihan-st"
+        },
+        {
+            "id": "nankai-st",
+            "title": "南海電気鉄道の駅",
+            "category": "transport",
+            "base": "nankai-st"
+        },
+        {
+            "id": "nishitetsu-st",
+            "title": "西日本鉄道の駅",
+            "category": "transport",
+            "base": "nishitetsu-st"
         },
         {
             "id": "water-systems",
@@ -1191,6 +1263,72 @@
             "title": "部首",
             "category": "literature",
             "base": "bushu"
+        },
+        {
+            "id": "stations-hokkaido",
+            "title": "北海道の駅",
+            "category": "transport",
+            "base": "stations-jp",
+            "filter": {
+                "tags": [
+                    "1"
+                ]
+            }
+        },
+        {
+            "id": "stations-tokyo",
+            "title": "東京都の駅",
+            "category": "transport",
+            "base": "stations-jp",
+            "filter": {
+                "tags": [
+                    "13"
+                ]
+            }
+        },
+        {
+            "id": "stations-kanagawa",
+            "title": "神奈川県の駅",
+            "category": "transport",
+            "base": "stations-jp",
+            "filter": {
+                "tags": [
+                    "14"
+                ]
+            }
+        },
+        {
+            "id": "stations-aichi",
+            "title": "愛知県の駅",
+            "category": "transport",
+            "base": "stations-jp",
+            "filter": {
+                "tags": [
+                    "23"
+                ]
+            }
+        },
+        {
+            "id": "stations-kyoto",
+            "title": "京都府の駅",
+            "category": "transport",
+            "base": "stations-jp",
+            "filter": {
+                "tags": [
+                    "26"
+                ]
+            }
+        },
+        {
+            "id": "stations-osaka",
+            "title": "大阪府の駅",
+            "category": "transport",
+            "base": "stations-jp",
+            "filter": {
+                "tags": [
+                    "27"
+                ]
+            }
         }
     ]
 }
