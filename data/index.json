@@ -544,10 +544,10 @@
             "base": "yamanote-line"
         },
         {
-            "id": "osaka-metro-station",
+            "id": "osaka-metro-st",
             "title": "Osaka Metroの駅",
             "category": "transport",
-            "base": "osaka-metro-station",
+            "base": "osaka-metro-st",
             "description": "ニュートラムの駅も含む"
         },
         {
