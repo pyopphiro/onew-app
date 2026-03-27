@@ -140,6 +140,12 @@
             "base": "10-cloud-type"
         },
         {
+            "id": "jma-advisories",
+            "title": "気象庁が発表する注意報",
+            "category": "science",
+            "base": "jma-advisories"
+        },
+        {
             "id": "protein-amino-acid",
             "title": "タンパク質を構成するアミノ酸",
             "category": "science",
@@ -278,6 +284,12 @@
             "title": "横綱",
             "category": "sports",
             "base": "yokoduna"
+        },
+        {
+            "id": "sumo-techniques",
+            "title": "大相撲の決まり手（八十二手および非技）",
+            "category": "sports",
+            "base": "sumo-techniques"
         },
         {
             "id": "mlb-teams",
@@ -925,6 +937,12 @@
             "title": "『あつまれ どうぶつの森』住民",
             "category": "anime-game",
             "base": "atsumori-residents"
+        },
+        {
+            "id": "kirby-copy-abilities",
+            "title": "『星のカービィ』シリーズのコピー能力",
+            "category": "anime-game",
+            "base": "kirby-copy-abilities"
         },
         {
             "id": "smash-brothers-fighter",

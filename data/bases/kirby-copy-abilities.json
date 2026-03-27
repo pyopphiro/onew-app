@@ -1,0 +1,350 @@
+{
+  "id": "kirby-copy-abilities",
+  "answers": [
+    {
+      "name": "ノーマル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ビーム",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "スパーク",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ファイア",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "カッター",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "クラッシュ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ソード",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "バーニング",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "フリーズ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ニードル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "パラソル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "トルネイド",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ホイール",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ストーン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "マイク",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "レーザー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "スリープ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ハイジャンプ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "アイス",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "バックドロップ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ハンマー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ライト",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "U.F.O.",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ボール",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "スロウ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ボム",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ファイター",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ミラー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "コック",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ニンジャ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "プラズマ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ヨーヨー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "スープレックス",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ウィング",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "コピー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ジェット",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ペイント",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "クリーン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "エンジェル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ミサイル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "スマブラ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "マジック",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ミニマム",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "バルーン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "アニマル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "メタル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "バブル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ゴースト",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "リーフ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ウィップ",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ウォーター",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "スピア",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ベル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ビートル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "スナイパー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "サーカス",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ドクター",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "エスパー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ポイズン",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "フェスティバル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "アーティスト",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "スパイダー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "スティック",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "レスラー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "レンジャー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ドリル",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "ゼリー",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "サンド",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "アーマー",
+      "aliases": [],
+      "tags": []
+    }
+  ]
+}

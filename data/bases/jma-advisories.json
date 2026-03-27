@@ -1,0 +1,117 @@
+{
+  "id": "jma-advisories",
+  "answers": [
+    {
+      "name": "大雨注意報",
+      "aliases": [
+        "大雨"
+      ],
+      "tags": []
+    },
+    {
+      "name": "洪水注意報",
+      "aliases": [
+        "洪水"
+      ],
+      "tags": []
+    },
+    {
+      "name": "強風注意報",
+      "aliases": [
+        "強風"
+      ],
+      "tags": []
+    },
+    {
+      "name": "風雪注意報",
+      "aliases": [
+        "風雪"
+      ],
+      "tags": []
+    },
+    {
+      "name": "大雪注意報",
+      "aliases": [
+        "大雪"
+      ],
+      "tags": []
+    },
+    {
+      "name": "波浪注意報",
+      "aliases": [
+        "波浪"
+      ],
+      "tags": []
+    },
+    {
+      "name": "高潮注意報",
+      "aliases": [
+        "高潮"
+      ],
+      "tags": []
+    },
+    {
+      "name": "雷注意報",
+      "aliases": [
+        "雷"
+      ],
+      "tags": []
+    },
+    {
+      "name": "乾燥注意報",
+      "aliases": [
+        "乾燥"
+      ],
+      "tags": []
+    },
+    {
+      "name": "濃霧注意報",
+      "aliases": [
+        "濃霧"
+      ],
+      "tags": []
+    },
+    {
+      "name": "霜注意報",
+      "aliases": [
+        "霜"
+      ],
+      "tags": []
+    },
+    {
+      "name": "なだれ注意報",
+      "aliases": [
+        "なだれ"
+      ],
+      "tags": []
+    },
+    {
+      "name": "低温注意報",
+      "aliases": [
+        "低温"
+      ],
+      "tags": []
+    },
+    {
+      "name": "着雪注意報",
+      "aliases": [
+        "着雪"
+      ],
+      "tags": []
+    },
+    {
+      "name": "着氷注意報",
+      "aliases": [
+        "着氷"
+      ],
+      "tags": []
+    },
+    {
+      "name": "融雪注意報",
+      "aliases": [
+        "融雪"
+      ],
+      "tags": []
+    }
+  ]
+}
