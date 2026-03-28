@@ -22,6 +22,7 @@ const resultSummary = document.getElementById("resultSummary");
 let correctAnswers = [];
 let answeredSet = new Set();
 let lastAnswered = null;
+let duplicateAnswers = null;
 let wrongCount = 0;
 
 let isGameOver = false;
@@ -117,6 +118,8 @@ function renderAnsweredList() {
 
       if (lastAnswered && lastAnswered.includes(ans)) {
         li.classList.add("recent");
+      } else if (duplicateAnswers && duplicateAnswers.includes(ans)) {
+        li.classList.add("duplicate");
       }
 
       answeredList.appendChild(li);
@@ -149,9 +152,13 @@ function judge() {
   if (newlyAnswered.length === 0) {
     status.textContent = `すでに解答済みです : ${input}`;
     status.className = "status ng";
+    duplicateAnswers = resolvedList;
+    lastAnswered = null;
+    renderAnsweredList();
   } else {
     newlyAnswered.forEach(ans => answeredSet.add(ans));
     lastAnswered = newlyAnswered;
+    duplicateAnswers = null;
     renderAnsweredList();
     status.textContent =
       newlyAnswered.length > 1

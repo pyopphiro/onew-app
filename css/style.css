@@ -232,6 +232,13 @@ ul {
   color: var(--main);
 }
 
+#answeredList li.duplicate {
+  background: var(--ng-light);
+  border-left: 4px solid var(--ng);
+  font-weight: bold;
+  color: var(--ng);
+}
+
 .answer-ok {
   color: var(--text);
 }
