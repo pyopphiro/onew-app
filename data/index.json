@@ -1294,6 +1294,28 @@
             }
         },
         {
+            "id": "stations-saitama",
+            "title": "埼玉県の駅",
+            "category": "transport",
+            "base": "stations-jp",
+            "filter": {
+                "tags": [
+                    "11"
+                ]
+            }
+        },
+        {
+            "id": "stations-chiba",
+            "title": "千葉県の駅",
+            "category": "transport",
+            "base": "stations-jp",
+            "filter": {
+                "tags": [
+                    "12"
+                ]
+            }
+        },
+        {
             "id": "stations-tokyo",
             "title": "東京都の駅",
             "category": "transport",
@@ -1345,6 +1367,17 @@
             "filter": {
                 "tags": [
                     "27"
+                ]
+            }
+        },
+        {
+            "id": "stations-nara",
+            "title": "奈良県の駅",
+            "category": "transport",
+            "base": "stations-jp",
+            "filter": {
+                "tags": [
+                    "29"
                 ]
             }
         }
