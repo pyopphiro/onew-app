@@ -12,6 +12,7 @@ const count = document.getElementById("count");
 const answeredList = document.getElementById("answeredList");
 const allAnswersTitle = document.getElementById("allAnswersTitle");
 const allAnswers = document.getElementById("allAnswers");
+const hintToggle = document.getElementById("hintToggle");
 
 // リザルト表示用
 const result = document.getElementById("result");
@@ -123,6 +124,11 @@ function renderAnsweredList() {
       }
 
       answeredList.appendChild(li);
+    } else if (hintToggle.checked) {
+      // ヒント表示（未解答の項目分スペースを開ける）
+      const li = document.createElement("li");
+      li.classList.add("hint-placeholder");
+      answeredList.appendChild(li);
     }
   });
 }
@@ -197,6 +203,9 @@ answerInput.addEventListener("keydown", e => {
 
 judgeButton.addEventListener("click", judge);
 
+// ヒントトグル
+hintToggle.addEventListener("change", renderAnsweredList);
+
 // ギブアップ
 giveUpButton.addEventListener("click", () => {
   if (isGameOver) return;
@@ -205,6 +214,7 @@ giveUpButton.addEventListener("click", () => {
   // 入力不可に
   answerInput.disabled = true;
   judgeButton.disabled = true;
+  hintToggle.disabled = true;
 
   status.textContent = "ギブアップしました";
   status.className = "status ng";
@@ -234,6 +244,7 @@ resumeButton.addEventListener("click", () => {
 
   answerInput.disabled = false;
   judgeButton.disabled = false;
+  hintToggle.disabled = false;
   answerInput.focus();
 
   status.textContent = "再開しました。続けて解答してください。";
@@ -251,6 +262,7 @@ function showResult(type) {
   isGameOver = true;
   answerInput.disabled = true;
   judgeButton.disabled = true;
+  hintToggle.disabled = true;
 
   result.style.display = "block";
   // ★ 解答済みリストを非表示
