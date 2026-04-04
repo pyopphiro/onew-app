@@ -837,6 +837,12 @@
             "base": "kamakura-shikken"
         },
         {
+            "id": "genjimonogatari",
+            "title": "『源氏物語』五十四帖",
+            "category": "literature",
+            "base": "genjimonogatari"
+        },
+        {
             "id": "hyakunin-isshu-kajin",
             "title": "小倉百人一首の歌人",
             "category": "literature",
