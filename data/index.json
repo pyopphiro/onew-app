@@ -158,6 +158,12 @@
             "base": "elementary-particle"
         },
         {
+            "id": "mohs-hardness",
+            "title": "モース硬度の標準鉱物",
+            "category": "science",
+            "base": "mohs-hardness"
+        },
+        {
             "id": "national-park-jp",
             "title": "国立公園 (日本)",
             "category": "geo",
