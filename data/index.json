@@ -1392,6 +1392,160 @@
                     "29"
                 ]
             }
+        },
+        {
+            "id": "municipality-area-all-top100",
+            "title": "市町村の面積（上位100個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "全: 上位100個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-all-bottom100",
+            "title": "市町村の面積（下位100個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "全: 下位100個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-all-top200",
+            "title": "市町村の面積（上位200個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "全: 上位200個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-all-bottom200",
+            "title": "市町村の面積（下位200個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "全: 下位200個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-city-top100",
+            "title": "市の面積（上位100個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "市: 上位100個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-city-bottom100",
+            "title": "市の面積（下位100個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "市: 下位100個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-city-top200",
+            "title": "市の面積（上位200個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "市: 上位200個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-city-bottom200",
+            "title": "市の面積（下位200個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "市: 下位200個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-town-top100",
+            "title": "町の面積（上位100個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "町: 上位100個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-town-bottom100",
+            "title": "町の面積（下位100個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "町: 下位100個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-town-top200",
+            "title": "町の面積（上位200個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "町: 上位200個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-town-bottom200",
+            "title": "町の面積（下位200個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "町: 下位200個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-village-top30",
+            "title": "村の面積（上位30個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "村: 上位30個"
+                ]
+            }
+        },
+        {
+            "id": "municipality-area-village-bottom30",
+            "title": "村の面積（下位30個）",
+            "category": "geo",
+            "base": "municipality-area",
+            "filter": {
+                "tags": [
+                    "村: 下位30個"
+                ]
+            }
         }
     ]
 }
