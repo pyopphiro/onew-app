@@ -1402,7 +1402,8 @@
                 "tags": [
                     "全: 上位100個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-all-bottom100",
@@ -1413,7 +1414,8 @@
                 "tags": [
                     "全: 下位100個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-all-top200",
@@ -1424,7 +1426,8 @@
                 "tags": [
                     "全: 上位200個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-all-bottom200",
@@ -1435,7 +1438,8 @@
                 "tags": [
                     "全: 下位200個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-city-top100",
@@ -1446,7 +1450,8 @@
                 "tags": [
                     "市: 上位100個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-city-bottom100",
@@ -1457,7 +1462,8 @@
                 "tags": [
                     "市: 下位100個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-city-top200",
@@ -1468,7 +1474,8 @@
                 "tags": [
                     "市: 上位200個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-city-bottom200",
@@ -1479,7 +1486,8 @@
                 "tags": [
                     "市: 下位200個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-town-top100",
@@ -1490,7 +1498,8 @@
                 "tags": [
                     "町: 上位100個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-town-bottom100",
@@ -1501,7 +1510,8 @@
                 "tags": [
                     "町: 下位100個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-town-top200",
@@ -1512,7 +1522,8 @@
                 "tags": [
                     "町: 上位200個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-town-bottom200",
@@ -1523,7 +1534,8 @@
                 "tags": [
                     "町: 下位200個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-village-top30",
@@ -1534,7 +1546,8 @@
                 "tags": [
                     "村: 上位30個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         },
         {
             "id": "municipality-area-village-bottom30",
@@ -1545,7 +1558,344 @@
                 "tags": [
                     "村: 下位30個"
                 ]
-            }
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-all-top100",
+            "title": "市町村の人口（上位100個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "全: 上位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-all-bottom100",
+            "title": "市町村の人口（下位100個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "全: 下位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-all-top200",
+            "title": "市町村の人口（上位200個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "全: 上位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-all-bottom200",
+            "title": "市町村の人口（下位200個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "全: 下位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-city-top100",
+            "title": "市の人口（上位100個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "市: 上位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-city-bottom100",
+            "title": "市の人口（下位100個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "市: 下位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-city-top200",
+            "title": "市の人口（上位200個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "市: 上位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-city-bottom200",
+            "title": "市の人口（下位200個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "市: 下位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-town-top100",
+            "title": "町の人口（上位100個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "町: 上位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-town-bottom100",
+            "title": "町の人口（下位100個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "町: 下位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-town-top200",
+            "title": "町の人口（上位200個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "町: 上位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-town-bottom200",
+            "title": "町の人口（下位200個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "町: 下位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-village-top30",
+            "title": "村の人口（上位30個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "村: 上位30個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-village-bottom30",
+            "title": "村の人口（下位30個）",
+            "category": "geo",
+            "base": "municipality-population",
+            "filter": {
+                "tags": [
+                    "村: 下位30個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-all-top100",
+            "title": "市町村の人口密度（上位100個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "全: 上位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-all-bottom100",
+            "title": "市町村の人口密度（下位100個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "全: 下位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-all-top200",
+            "title": "市町村の人口密度（上位200個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "全: 上位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-all-bottom200",
+            "title": "市町村の人口密度（下位200個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "全: 下位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-city-top100",
+            "title": "市の人口密度（上位100個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "市: 上位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-city-bottom100",
+            "title": "市の人口密度（下位100個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "市: 下位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-city-top200",
+            "title": "市の人口密度（上位200個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "市: 上位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-city-bottom200",
+            "title": "市の人口密度（下位200個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "市: 下位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-town-top100",
+            "title": "町の人口密度（上位100個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "町: 上位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-town-bottom100",
+            "title": "町の人口密度（下位100個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "町: 下位100個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-town-top200",
+            "title": "町の人口密度（上位200個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "町: 上位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-town-bottom200",
+            "title": "町の人口密度（下位200個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "町: 下位200個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-village-top30",
+            "title": "村の人口密度（上位30個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "村: 上位30個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "municipality-population-density-village-bottom30",
+            "title": "村の人口密度（下位30個）",
+            "category": "geo",
+            "base": "municipality-population-density",
+            "filter": {
+                "tags": [
+                    "村: 下位30個"
+                ]
+            },
+            "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
         }
     ]
 }
