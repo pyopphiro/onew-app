@@ -209,32 +209,10 @@ hintToggle.addEventListener("change", renderAnsweredList);
 // ギブアップ
 giveUpButton.addEventListener("click", () => {
   if (isGameOver) return;
-  isGameOver = true;
-
-  // 入力不可に
-  answerInput.disabled = true;
-  judgeButton.disabled = true;
-  hintToggle.disabled = true;
 
   status.textContent = "ギブアップしました";
   status.className = "status ng";
 
-  allAnswersTitle.style.display = "block";
-  allAnswers.style.display = "block";
-  allAnswers.innerHTML = "";
-
-  correctAnswers.forEach(a => {
-    const li = document.createElement("li");
-    li.textContent = a;
-
-    if (answeredSet.has(a)) {
-      li.classList.add("answer-ok");
-    } else {
-      li.classList.add("answer-ng");
-    }
-
-    allAnswers.appendChild(li);
-  });
   showResult("giveup");
 });
 
@@ -257,6 +235,25 @@ resumeButton.addEventListener("click", () => {
   document.getElementById("answeredSection").style.display = "";
 });
 
+function renderAllAnswers() {
+  allAnswersTitle.style.display = "block";
+  allAnswers.style.display = "block";
+  allAnswers.innerHTML = "";
+
+  correctAnswers.forEach(a => {
+    const li = document.createElement("li");
+    li.textContent = a;
+
+    if (answeredSet.has(a)) {
+      li.classList.add("answer-ok");
+    } else {
+      li.classList.add("answer-ng");
+    }
+
+    allAnswers.appendChild(li);
+  });
+}
+
 function showResult(type) {
   // 入力停止
   isGameOver = true;
@@ -267,6 +264,8 @@ function showResult(type) {
   result.style.display = "block";
   // ★ 解答済みリストを非表示
   document.getElementById("answeredSection").style.display = "none";
+
+  renderAllAnswers();
 
   if (type === "clear") {
     resultTitle.textContent = "🎉 全問正解！";
