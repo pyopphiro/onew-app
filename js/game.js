@@ -156,7 +156,7 @@ function judge() {
   );
 
   if (newlyAnswered.length === 0) {
-    status.textContent = `すでに解答済みです : ${input}`;
+    status.innerHTML = `すでに解答済みです : ${input}<br><small>${resolvedList.join("<br>")}</small>`;
     status.className = "status ng";
     duplicateAnswers = resolvedList;
     lastAnswered = null;
@@ -166,10 +166,10 @@ function judge() {
     lastAnswered = newlyAnswered;
     duplicateAnswers = null;
     renderAnsweredList();
-    status.textContent =
-      newlyAnswered.length > 1
-        ? `${newlyAnswered.length} 件正解！ : ${input}`
-        : `正解！ : ${input}`;
+    const resultMsg = newlyAnswered.length > 1
+      ? `${newlyAnswered.length} 件正解！ : ${input}`
+      : `正解！ : ${input}`;
+    status.innerHTML = `${resultMsg}<br><small>${resolvedList.join("<br>")}</small>`;
     status.className = "status ok";
   }
 
