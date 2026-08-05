@@ -708,6 +708,18 @@
             "base": "highest-peak-world"
         },
         {
+            "id": "islands-area-world",
+            "title": "世界の島（面積順）",
+            "category": "geo",
+            "base": "islands-area-world"
+        },
+        {
+            "id": "islands-population-world",
+            "title": "世界の島（人口順）",
+            "category": "geo",
+            "base": "islands-population-world"
+        },
+        {
             "id": "university-jp",
             "title": "日本の大学",
             "category": "geo",
