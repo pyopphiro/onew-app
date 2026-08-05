@@ -171,6 +171,18 @@
             "description": "「国立公園」まで入力しなくても正解判定となります"
         },
         {
+            "id": "world-heritage-jp",
+            "title": "日本の世界遺産",
+            "category": "geo",
+            "base": "world-heritage-jp"
+        },
+        {
+            "id": "nuclear-power-plant-jp",
+            "title": "日本の原子力発電所",
+            "category": "geo",
+            "base": "nuclear-power-plant-jp"
+        },
+        {
             "id": "holiday-jp",
             "title": "日本の祝日",
             "category": "social",

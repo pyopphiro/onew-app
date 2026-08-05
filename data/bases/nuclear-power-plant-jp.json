@@ -1,0 +1,106 @@
+{
+  "id": "nuclear-power-plant-jp",
+  "answers": [
+    {
+      "name": "泊",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "大間",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "東通",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "女川",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "福島第一 [廃止]",
+      "aliases": [
+        "福島第一"
+      ],
+      "tags": []
+    },
+    {
+      "name": "福島第二 [廃止]",
+      "aliases": [
+        "福島第二"
+      ],
+      "tags": []
+    },
+    {
+      "name": "東海 [廃止]",
+      "aliases": [
+        "東海"
+      ],
+      "tags": []
+    },
+    {
+      "name": "東海第二",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "柏崎刈羽",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "志賀",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "浜岡",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "敦賀",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "美浜",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "大飯",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "高浜",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "島根",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "伊方",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "玄海",
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "name": "川内",
+      "aliases": [],
+      "tags": []
+    }
+  ]
+}
