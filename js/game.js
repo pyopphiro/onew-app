@@ -10,7 +10,7 @@ const resumeButton = document.getElementById("resumeButton");
 const status = document.getElementById("status");
 const count = document.getElementById("count");
 const answeredList = document.getElementById("answeredList");
-const allAnswersTitle = document.getElementById("allAnswersTitle");
+const allAnswersSection = document.getElementById("allAnswersSection");
 const allAnswers = document.getElementById("allAnswers");
 const hintToggle = document.getElementById("hintToggle");
 
@@ -229,15 +229,13 @@ resumeButton.addEventListener("click", () => {
   status.className = "status ok";
 
   // 全解答・リザルトを隠す
-  allAnswersTitle.style.display = "none";
-  allAnswers.style.display = "none";
+  allAnswersSection.style.display = "none";
   result.style.display = "none";
   document.getElementById("answeredSection").style.display = "";
 });
 
 function renderAllAnswers() {
-  allAnswersTitle.style.display = "block";
-  allAnswers.style.display = "block";
+  allAnswersSection.style.display = "block";
   allAnswers.innerHTML = "";
 
   correctAnswers.forEach(a => {

@@ -273,19 +273,13 @@ button.secondary {
 }
 
 /* =========================
-   解答済みリスト
+   解答・全解答カードセクション
    ========================= */
 ul {
   padding-left: 20px;
 }
 
-#answeredList {
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
-}
-
-#answeredSection {
+.card-section {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -294,7 +288,20 @@ ul {
   margin-top: 16px;
 }
 
-#answeredList li {
+.card-section h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-size: 1.1rem;
+  color: var(--text);
+}
+
+.answer-card-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.answer-card-list li {
   padding: 4px 8px;
   border-radius: 4px;
 }
@@ -332,28 +339,17 @@ ul {
   opacity: 0.5;
 }
 
+/* 全解答表示時の要素スタイル */
 .answer-ok {
-  color: var(--text);
+  color: var(--ok);
+  background: var(--ok-light);
+  font-weight: 600;
 }
 
 .answer-ng {
   color: var(--ng);
-}
-
-/* =========================
-   全解答リスト
-   ========================= */
-#allAnswersTitle {
-  margin-top: 24px;
-  color: var(--text);
-}
-
-#allAnswers {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 12px 16px 12px 36px;
-  box-shadow: var(--shadow);
+  background: var(--ng-light);
+  font-weight: 600;
 }
 
 /* =========================
@@ -466,7 +462,7 @@ ul {
     padding: 14px 18px;
   }
 
-  #answeredList {
+  .answer-card-list {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 6px 12px;

@@ -44,14 +44,15 @@
     <button id="retryButton" class="retryButton" onclick="location.reload()">再挑戦</button>
   </div>
 
-  <section id="answeredSection">
+  <section id="answeredSection" class="card-section">
     <h3>解答済み</h3>
-    <ul id="answeredList"></ul>
+    <ul id="answeredList" class="answer-card-list"></ul>
   </section>
 
-
-  <h3 id="allAnswersTitle" style="display:none;">全解答</h3>
-  <ul id="allAnswers" style="display:none;"></ul>
+  <section id="allAnswersSection" class="card-section" style="display:none;">
+    <h3>全解答</h3>
+    <ul id="allAnswers" class="answer-card-list"></ul>
+  </section>
 
   <script src="js/game.js"></script>
 
