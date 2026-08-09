@@ -1,0 +1,600 @@
+{
+    "id": "station-jp-len1",
+    "answers": [
+        {
+            "name": "森 [JR北海道]",
+            "aliases": [
+                "森"
+            ],
+            "tags": []
+        },
+        {
+            "name": "緑 [JR北海道]",
+            "aliases": [
+                "緑"
+            ],
+            "tags": []
+        },
+        {
+            "name": "鮫 [JR東日本]",
+            "aliases": [
+                "鮫"
+            ],
+            "tags": []
+        },
+        {
+            "name": "峠 [JR東日本]",
+            "aliases": [
+                "峠"
+            ],
+            "tags": []
+        },
+        {
+            "name": "旭 [JR東日本]",
+            "aliases": [
+                "旭"
+            ],
+            "tags": []
+        },
+        {
+            "name": "柏 [JR東日本/東武鉄道]",
+            "aliases": [
+                "柏"
+            ],
+            "tags": []
+        },
+        {
+            "name": "泉 [JR東日本]",
+            "aliases": [
+                "泉"
+            ],
+            "tags": []
+        },
+        {
+            "name": "蕨 [JR東日本]",
+            "aliases": [
+                "蕨"
+            ],
+            "tags": []
+        },
+        {
+            "name": "滝 [JR東日本]",
+            "aliases": [
+                "滝"
+            ],
+            "tags": []
+        },
+        {
+            "name": "静 [JR東日本]",
+            "aliases": [
+                "静"
+            ],
+            "tags": []
+        },
+        {
+            "name": "蓮 [JR東日本]",
+            "aliases": [
+                "蓮"
+            ],
+            "tags": []
+        },
+        {
+            "name": "巻 [JR東日本]",
+            "aliases": [
+                "巻"
+            ],
+            "tags": []
+        },
+        {
+            "name": "燕 [JR東日本]",
+            "aliases": [
+                "燕"
+            ],
+            "tags": []
+        },
+        {
+            "name": "鼎 [JR東海]",
+            "aliases": [
+                "鼎"
+            ],
+            "tags": []
+        },
+        {
+            "name": "沢 [JR東海]",
+            "aliases": [
+                "沢"
+            ],
+            "tags": []
+        },
+        {
+            "name": "渚 [JR東海]",
+            "aliases": [
+                "渚"
+            ],
+            "tags": []
+        },
+        {
+            "name": "林 [JR西日本]",
+            "aliases": [
+                "林"
+            ],
+            "tags": []
+        },
+        {
+            "name": "原 [JR東海]",
+            "aliases": [
+                "原"
+            ],
+            "tags": []
+        },
+        {
+            "name": "姫 [JR東海]",
+            "aliases": [
+                "姫"
+            ],
+            "tags": []
+        },
+        {
+            "name": "関 [JR西日本]",
+            "aliases": [
+                "関"
+            ],
+            "tags": []
+        },
+        {
+            "name": "津 [JR東海/近畿日本鉄道/伊勢鉄道]",
+            "aliases": [
+                "津"
+            ],
+            "tags": []
+        },
+        {
+            "name": "灘 [JR西日本]",
+            "aliases": [
+                "灘"
+            ],
+            "tags": []
+        },
+        {
+            "name": "光 [JR西日本]",
+            "aliases": [
+                "光"
+            ],
+            "tags": []
+        },
+        {
+            "name": "鎧 [JR西日本]",
+            "aliases": [
+                "鎧"
+            ],
+            "tags": []
+        },
+        {
+            "name": "泊 [JR西日本]",
+            "aliases": [
+                "泊"
+            ],
+            "tags": []
+        },
+        {
+            "name": "鳳 [JR西日本]",
+            "aliases": [
+                "鳳"
+            ],
+            "tags": []
+        },
+        {
+            "name": "滝 [JR西日本]",
+            "aliases": [
+                "滝"
+            ],
+            "tags": []
+        },
+        {
+            "name": "椿 [JR西日本]",
+            "aliases": [
+                "椿"
+            ],
+            "tags": []
+        },
+        {
+            "name": "萩 [JR西日本]",
+            "aliases": [
+                "萩"
+            ],
+            "tags": []
+        },
+        {
+            "name": "高 [JR西日本]",
+            "aliases": [
+                "高"
+            ],
+            "tags": []
+        },
+        {
+            "name": "広 [JR西日本]",
+            "aliases": [
+                "広"
+            ],
+            "tags": []
+        },
+        {
+            "name": "呉 [JR西日本]",
+            "aliases": [
+                "呉"
+            ],
+            "tags": []
+        },
+        {
+            "name": "坂 [JR西日本]",
+            "aliases": [
+                "坂"
+            ],
+            "tags": []
+        },
+        {
+            "name": "佃 [JR四国]",
+            "aliases": [
+                "佃"
+            ],
+            "tags": []
+        },
+        {
+            "name": "旭 [JR四国]",
+            "aliases": [
+                "旭"
+            ],
+            "tags": []
+        },
+        {
+            "name": "学 [JR四国]",
+            "aliases": [
+                "学"
+            ],
+            "tags": []
+        },
+        {
+            "name": "辻 [JR四国]",
+            "aliases": [
+                "辻"
+            ],
+            "tags": []
+        },
+        {
+            "name": "串 [JR四国]",
+            "aliases": [
+                "串"
+            ],
+            "tags": []
+        },
+        {
+            "name": "牧 [JR九州]",
+            "aliases": [
+                "牧"
+            ],
+            "tags": []
+        },
+        {
+            "name": "段 [JR九州]",
+            "aliases": [
+                "段"
+            ],
+            "tags": []
+        },
+        {
+            "name": "渡 [JR九州]",
+            "aliases": [
+                "渡"
+            ],
+            "tags": []
+        },
+        {
+            "name": "県 [東武鉄道]",
+            "aliases": [
+                "県"
+            ],
+            "tags": []
+        },
+        {
+            "name": "桜 [名古屋鉄道]",
+            "aliases": [
+                "桜"
+            ],
+            "tags": []
+        },
+        {
+            "name": "葛 [近畿日本鉄道]",
+            "aliases": [
+                "葛"
+            ],
+            "tags": []
+        },
+        {
+            "name": "桜 [近畿日本鉄道]",
+            "aliases": [
+                "桜"
+            ],
+            "tags": []
+        },
+        {
+            "name": "泊 [四日市あすなろう鉄道]",
+            "aliases": [
+                "泊"
+            ],
+            "tags": []
+        },
+        {
+            "name": "柳 [近畿日本鉄道]",
+            "aliases": [
+                "柳"
+            ],
+            "tags": []
+        },
+        {
+            "name": "楠 [近畿日本鉄道]",
+            "aliases": [
+                "楠"
+            ],
+            "tags": []
+        },
+        {
+            "name": "堺 [南海電鉄]",
+            "aliases": [
+                "堺"
+            ],
+            "tags": []
+        },
+        {
+            "name": "湊 [南海電鉄]",
+            "aliases": [
+                "湊"
+            ],
+            "tags": []
+        },
+        {
+            "name": "淀 [京阪電鉄]",
+            "aliases": [
+                "淀"
+            ],
+            "tags": []
+        },
+        {
+            "name": "錦 [京阪電鉄]",
+            "aliases": [
+                "錦"
+            ],
+            "tags": []
+        },
+        {
+            "name": "桂 [阪急電鉄]",
+            "aliases": [
+                "桂"
+            ],
+            "tags": []
+        },
+        {
+            "name": "福 [阪神電鉄]",
+            "aliases": [
+                "福"
+            ],
+            "tags": []
+        },
+        {
+            "name": "紫 [西日本鉄道]",
+            "aliases": [
+                "紫"
+            ],
+            "tags": []
+        },
+        {
+            "name": "開 [西日本鉄道]",
+            "aliases": [
+                "開"
+            ],
+            "tags": []
+        },
+        {
+            "name": "盛 [三陸鉄道]",
+            "aliases": [
+                "盛"
+            ],
+            "tags": []
+        },
+        {
+            "name": "兜 [阿武隈急行]",
+            "aliases": [
+                "兜"
+            ],
+            "tags": []
+        },
+        {
+            "name": "岡 [阿武隈急行]",
+            "aliases": [
+                "岡"
+            ],
+            "tags": []
+        },
+        {
+            "name": "泉 [福島交通]",
+            "aliases": [
+                "泉"
+            ],
+            "tags": []
+        },
+        {
+            "name": "膳 [上毛電気鉄道]",
+            "aliases": [
+                "膳"
+            ],
+            "tags": []
+        },
+        {
+            "name": "峰 [宇都宮ライトレール]",
+            "aliases": [
+                "峰"
+            ],
+            "tags": []
+        },
+        {
+            "name": "寿 [富士山麓電気鉄道]",
+            "aliases": [
+                "寿"
+            ],
+            "tags": []
+        },
+        {
+            "name": "渚 [アルピコ交通]",
+            "aliases": [
+                "渚"
+            ],
+            "tags": []
+        },
+        {
+            "name": "轟 [えちぜん鉄道]",
+            "aliases": [
+                "轟"
+            ],
+            "tags": []
+        },
+        {
+            "name": "泊 [あいの風とやま鉄道]",
+            "aliases": [
+                "泊"
+            ],
+            "tags": []
+        },
+        {
+            "name": "栄 [名古屋市交通局]",
+            "aliases": [
+                "栄"
+            ],
+            "tags": []
+        },
+        {
+            "name": "原 [名古屋市交通局]",
+            "aliases": [
+                "原"
+            ],
+            "tags": []
+        },
+        {
+            "name": "関 [長良川鉄道]",
+            "aliases": [
+                "関"
+            ],
+            "tags": []
+        },
+        {
+            "name": "室 [養老鉄道]",
+            "aliases": [
+                "室"
+            ],
+            "tags": []
+        },
+        {
+            "name": "牧 [京都丹後鉄道]",
+            "aliases": [
+                "牧"
+            ],
+            "tags": []
+        },
+        {
+            "name": "森 [水間鉄道]",
+            "aliases": [
+                "森"
+            ],
+            "tags": []
+        },
+        {
+            "name": "栄 [神戸電鉄]",
+            "aliases": [
+                "栄"
+            ],
+            "tags": []
+        },
+        {
+            "name": "長 [北条鉄道]",
+            "aliases": [
+                "長"
+            ],
+            "tags": []
+        },
+        {
+            "name": "隼 [若桜鉄道]",
+            "aliases": [
+                "隼"
+            ],
+            "tags": []
+        },
+        {
+            "name": "園 [一畑電車]",
+            "aliases": [
+                "園"
+            ],
+            "tags": []
+        },
+        {
+            "name": "栄 [水島臨海鉄道]",
+            "aliases": [
+                "栄"
+            ],
+            "tags": []
+        },
+        {
+            "name": "伴 [広島高速交通]",
+            "aliases": [
+                "伴"
+            ],
+            "tags": []
+        },
+        {
+            "name": "陶 [高松琴平電気鉄道]",
+            "aliases": [
+                "陶"
+            ],
+            "tags": []
+        },
+        {
+            "name": "原 [高松琴平電気鉄道]",
+            "aliases": [
+                "原"
+            ],
+            "tags": []
+        },
+        {
+            "name": "糒 [平成筑豊鉄道]",
+            "aliases": [
+                "糒"
+            ],
+            "tags": []
+        },
+        {
+            "name": "赤 [平成筑豊鉄道]",
+            "aliases": [
+                "赤"
+            ],
+            "tags": []
+        },
+        {
+            "name": "里 [松浦鉄道]",
+            "aliases": [
+                "里"
+            ],
+            "tags": []
+        },
+        {
+            "name": "幸 [島原鉄道]",
+            "aliases": [
+                "幸"
+            ],
+            "tags": []
+        },
+        {
+            "name": "袋 [肥薩おれんじ鉄道]",
+            "aliases": [
+                "袋"
+            ],
+            "tags": []
+        }
+    ]
+}

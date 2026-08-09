@@ -1920,6 +1920,48 @@
                 ]
             },
             "description": "政府統計の総合窓口(e-Stat)（https://www.e-stat.go.jp/）より人口データ・面積データを加工して作成"
+        },
+        {
+            "id": "station-jp-len1",
+            "title": "1文字の駅名",
+            "category": "transport",
+            "base": "station-jp-len1"
+        },
+        {
+            "id": "station-jp-len4",
+            "title": "4文字の駅名",
+            "category": "transport",
+            "base": "station-jp-len4"
+        },
+        {
+            "id": "station-jp-len-ge-5",
+            "title": "5文字以上の駅名",
+            "category": "transport",
+            "base": "station-jp-len-ge-5"
+        },
+        {
+            "id": "station-jp-contains-katakana",
+            "title": "カタカナを含む駅名",
+            "category": "transport",
+            "base": "station-jp-contains-katakana"
+        },
+        {
+            "id": "station-jp-endswith-shi",
+            "title": "「市」で終わる駅名",
+            "category": "transport",
+            "base": "station-jp-endswith-shi"
+        },
+        {
+            "id": "station-jp-startswith-shin",
+            "title": "「新」で始まる駅名",
+            "category": "transport",
+            "base": "station-jp-startswith-shin"
+        },
+        {
+            "id": "station-jp-startswith-ryoseikoku",
+            "title": "令制国で始まる駅名",
+            "category": "transport",
+            "base": "station-jp-startswith-ryoseikoku"
         }
     ]
 }
