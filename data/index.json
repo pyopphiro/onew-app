@@ -1946,10 +1946,34 @@
             "base": "station-jp-len-ge-5"
         },
         {
+            "id": "station-jp-len-ge-8",
+            "title": "8文字以上の駅名",
+            "category": "transport",
+            "base": "station-jp-len-ge-8"
+        },
+        {
+            "id": "station-jp-contains-hiragana",
+            "title": "ひらがなを含む駅名",
+            "category": "transport",
+            "base": "station-jp-contains-hiragana"
+        },
+        {
             "id": "station-jp-contains-katakana",
             "title": "カタカナを含む駅名",
             "category": "transport",
             "base": "station-jp-contains-katakana"
+        },
+        {
+            "id": "station-jp-contains-kansuji",
+            "title": "漢数字を含む駅名",
+            "category": "transport",
+            "base": "station-jp-contains-kansuji"
+        },
+        {
+            "id": "station-jp-contains-number",
+            "title": "アラビア数字を含む駅名",
+            "category": "transport",
+            "base": "station-jp-contains-number"
         },
         {
             "id": "station-jp-endswith-shi",
@@ -1962,6 +1986,12 @@
             "title": "「新」で始まる駅名",
             "category": "transport",
             "base": "station-jp-startswith-shin"
+        },
+        {
+            "id": "station-jp-startswith-tozainanboku",
+            "title": "「東西南北」のいずれかで始まる駅名",
+            "category": "transport",
+            "base": "station-jp-startswith-tozainanboku"
         },
         {
             "id": "station-jp-startswith-ryoseikoku",
