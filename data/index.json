@@ -58,6 +58,12 @@
             "description": "国際天文学連合が定める88星座"
         },
         {
+            "id": "named-stars",
+            "title": "固有名が定められている恒星",
+            "category": "science",
+            "base": "named-stars"
+        },
+        {
             "id": "countries",
             "title": "世界の国",
             "category": "geo",
