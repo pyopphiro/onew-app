@@ -1994,6 +1994,18 @@
             "base": "station-jp-endswith-mae"
         },
         {
+            "id": "station-jp-endswith-machi",
+            "title": "「町」で終わる駅名",
+            "category": "transport",
+            "base": "station-jp-endswith-machi"
+        },
+        {
+            "id": "station-jp-endswith-tera",
+            "title": "「寺」で終わる駅名",
+            "category": "transport",
+            "base": "station-jp-endswith-tera"
+        },
+        {
             "id": "station-jp-endswith-hashi",
             "title": "「橋」で終わる駅名",
             "category": "transport",
