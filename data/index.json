@@ -1994,6 +1994,12 @@
             "base": "station-jp-endswith-mae"
         },
         {
+            "id": "station-jp-endswith-hashi",
+            "title": "「橋」で終わる駅名",
+            "category": "transport",
+            "base": "station-jp-endswith-hashi"
+        },
+        {
             "id": "station-jp-endswith-koen",
             "title": "「公園」で終わる駅名",
             "category": "transport",
