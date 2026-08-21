@@ -1934,6 +1934,12 @@
             "base": "station-jp-len1"
         },
         {
+            "id": "station-jp-len3",
+            "title": "3文字の駅名",
+            "category": "transport",
+            "base": "station-jp-len3"
+        },
+        {
             "id": "station-jp-len4",
             "title": "4文字の駅名",
             "category": "transport",
@@ -1980,6 +1986,18 @@
             "title": "「市」で終わる駅名",
             "category": "transport",
             "base": "station-jp-endswith-shi"
+        },
+        {
+            "id": "station-jp-endswith-mae",
+            "title": "「前」で終わる駅名",
+            "category": "transport",
+            "base": "station-jp-endswith-mae"
+        },
+        {
+            "id": "station-jp-endswith-koen",
+            "title": "「公園」で終わる駅名",
+            "category": "transport",
+            "base": "station-jp-endswith-koen"
         },
         {
             "id": "station-jp-startswith-shin",
